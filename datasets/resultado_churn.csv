@@ -1,0 +1,641 @@
+ID,Sexo,Idoso,Casado,Dependentes,TempoContrato,Telefone,LinhasMultiplas,Internet,AntiVirus,Backup,Seguro,Suporte,TV,Filmes,TipoContrato,ContaDigital,MetodoPagto,CustoMensal,CustoTotal,ClasseTempoContrato,Churn,ChurnProb
+7024-OHCCK,Feminino,True,False,False,2,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,93.85,170.85,Classe_00_12,True,0.9148617590185637
+4424-TKOPW,Masculino,True,False,False,2,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,93.85,196.75,Classe_00_12,True,0.9129395285222803
+5150-ITWWB,Masculino,True,False,False,3,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,94.85,335.75,Classe_00_12,True,0.9109554658656351
+0295-PPHDO,Masculino,False,False,False,1,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.45,95.45,Classe_00_12,True,0.909297483395525
+7577-SWIFR,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,89.25,89.25,Classe_00_12,True,0.9035225560457157
+6496-SLWHQ,Masculino,True,False,False,3,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,105.0,294.45,Classe_00_12,True,0.9028750219470845
+2446-BEGGB,Feminino,True,False,False,6,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,98.25,560.6,Classe_00_12,True,0.8984308610227015
+0781-LKXBR,Masculino,True,False,False,9,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,100.5,918.6,Classe_00_12,True,0.8938185774561317
+1069-XAIEM,Feminino,True,False,False,1,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,85.05,85.05,Classe_00_12,True,0.8931215287484985
+4273-MBHYA,Feminino,False,False,True,1,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,89.35,89.35,Classe_00_12,True,0.8922903090301814
+3319-DWOEP,Masculino,True,True,False,6,True,False,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,95.75,573.75,Classe_00_12,True,0.8918434756456947
+2656-TABEH,Masculino,False,True,False,4,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,100.2,420.2,Classe_00_12,True,0.8916777645460687
+7943-RQCHR,Feminino,False,False,False,9,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,94.75,889.9,Classe_00_12,True,0.8904756676103737
+4695-WJZUE,Feminino,True,False,False,2,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Conta Eletronica,88.55,179.25,Classe_00_12,True,0.8886682331893149
+5277-ZLOOR,Feminino,True,False,False,2,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,85.55,187.45,Classe_00_12,True,0.8869726263171868
+3793-MMFUH,Feminino,True,False,False,13,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.05,1290.0,Classe_12_24,True,0.886126931702876
+4587-VVTOX,Feminino,False,True,False,6,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,105.3,545.2,Classe_00_12,True,0.8861161972535886
+1941-HOSAM,Masculino,False,True,True,1,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,90.1,90.1,Classe_00_12,True,0.8859868620385843
+4750-ZRXIU,Feminino,True,False,False,4,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,84.6,360.1,Classe_00_12,True,0.8840410155648145
+4713-LZDRV,Feminino,True,False,False,2,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,79.6,195.05,Classe_00_12,True,0.8836432978320764
+6567-HOOPW,Feminino,True,False,False,1,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,79.2,79.2,Classe_00_12,True,0.883024514869461
+8603-IJWDN,Masculino,False,False,False,1,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,86.6,86.6,Classe_00_12,True,0.8830053016018414
+4912-PIGUY,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,84.6,84.6,Classe_00_12,True,0.882364256404281
+0702-PGIBZ,Masculino,False,False,True,4,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,101.7,364.55,Classe_00_12,True,0.8794454942433121
+4614-NUVZD,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,81.1,81.1,Classe_00_12,True,0.8787708798748434
+2865-TCHJW,Feminino,True,False,False,4,True,True,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,89.2,346.2,Classe_00_12,True,0.8787242682644121
+6630-UJZMY,Feminino,True,True,False,4,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,83.25,308.05,Classe_00_12,True,0.8759692628163787
+6457-USBER,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,80.8,80.8,Classe_00_12,True,0.8757904631083784
+8058-INTPH,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,79.65,79.65,Classe_00_12,True,0.8751270174820349
+4140-MUHUG,Feminino,True,False,False,3,True,False,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,86.85,220.95,Classe_00_12,True,0.8742968622711748
+9025-AOMKI,Feminino,False,False,False,6,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,93.55,536.4,Classe_00_12,True,0.8726015120884046
+1761-AEZZR,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,79.55,79.55,Classe_00_12,True,0.8720728299656365
+1981-INRFU,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,79.75,164.5,Classe_00_12,True,0.8716509135399013
+9402-ORRAH,Feminino,True,False,False,15,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,91.5,1400.3,Classe_12_24,True,0.8714899905046797
+4529-CKBCL,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,80.2,146.05,Classe_00_12,True,0.8713942572463702
+2202-CUYXZ,Masculino,False,False,False,1,True,False,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,84.85,84.85,Classe_00_12,True,0.8704027512253943
+1624-NALOJ,Masculino,True,False,False,5,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,89.8,502.6,Classe_00_12,True,0.8703717490058713
+2027-FECZV,Masculino,False,False,False,12,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,106.7,1253.9,Classe_00_12,True,0.8695071366887662
+2789-HQBOU,Masculino,False,False,False,3,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,80.35,253.8,Classe_00_12,True,0.8688345746356501
+8739-XNIKG,Feminino,False,False,False,5,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,84.0,424.75,Classe_00_12,True,0.8686823443780085
+0236-HFWSV,Masculino,False,False,False,15,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,93.35,1444.65,Classe_12_24,True,0.8681857945986468
+4210-QFJMF,Feminino,False,False,False,4,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,79.15,317.25,Classe_00_12,True,0.8680980401942253
+1678-FYZOW,Feminino,False,False,False,3,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,79.4,244.65,Classe_00_12,True,0.8680257532027016
+1658-BYGOY,Masculino,True,False,False,18,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.45,1752.55,Classe_12_24,True,0.8666551721478521
+4806-KEXQR,Masculino,False,False,False,4,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,79.9,324.3,Classe_00_12,True,0.8650022385416294
+9837-BMCLM,Masculino,False,False,False,3,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,78.5,242.05,Classe_00_12,True,0.8647883952779593
+7225-CBZPL,Masculino,True,True,False,17,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,94.8,1563.9,Classe_12_24,True,0.864576706870648
+6615-NGGZJ,Masculino,False,False,False,14,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,100.55,1415.55,Classe_12_24,True,0.8639250557085745
+9965-YOKZB,Masculino,True,False,False,9,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,83.85,790.15,Classe_00_12,True,0.8637928522987695
+6986-IXNDM,Masculino,False,False,False,14,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,92.9,1337.45,Classe_12_24,True,0.8636976618380473
+6328-ZPBGN,Feminino,True,False,False,11,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,95.15,997.65,Classe_00_12,True,0.8636502664141161
+4060-LDNLU,Masculino,False,False,False,7,True,True,Fibra,False,False,False,False,True,True,Mensal,False,Conta Eletronica,96.2,639.7,Classe_00_12,True,0.8636250242114336
+0680-DFNNY,Masculino,False,True,False,15,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,101.1,1504.05,Classe_12_24,True,0.8630004067413913
+6857-VWJDT,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,True,True,Mensal,False,Conta Papel,95.65,95.65,Classe_00_12,True,0.8620254144732438
+6734-GMPVK,Masculino,False,False,False,5,True,True,Fibra,False,True,True,False,True,True,Mensal,False,Conta Eletronica,105.3,550.6,Classe_00_12,True,0.8615204954537931
+0011-IGKFF,Masculino,True,True,False,13,True,False,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,98.0,1237.85,Classe_12_24,True,0.8609585414204024
+9124-LHCJQ,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Papel,85.45,85.45,Classe_00_12,True,0.8609575877634672
+2123-AGEEN,Feminino,True,False,False,7,True,False,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,84.35,609.65,Classe_00_12,True,0.8605511087244869
+8242-SOQUO,Feminino,True,False,False,5,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Conta Eletronica,84.7,392.5,Classe_00_12,True,0.8602423163168531
+8382-SHQEH,Feminino,False,True,False,8,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,84.9,764.95,Classe_00_12,True,0.8584979084286163
+5229-PRWKT,Masculino,False,False,False,8,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,86.55,649.65,Classe_00_12,True,0.8578207456705541
+6583-KQJLK,Feminino,True,True,False,15,True,False,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,94.65,1285.05,Classe_12_24,True,0.8567279600530636
+8622-ZLFKO,Feminino,False,True,False,6,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,90.75,512.25,Classe_00_12,True,0.8557384127430093
+9248-OJYKK,Masculino,True,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.45,76.45,Classe_00_12,True,0.8554422114307824
+4952-YSOGZ,Feminino,False,True,True,4,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,85.95,381.3,Classe_00_12,True,0.8548079163202298
+8337-UPOAQ,Masculino,True,True,False,10,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Conta Eletronica,89.8,914.3,Classe_00_12,True,0.8542893419323537
+5868-YWPDW,Masculino,True,True,False,6,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,84.2,519.15,Classe_00_12,True,0.8532839712344099
+0684-AOSIH,Masculino,False,True,False,1,True,False,Fibra,True,False,False,False,True,True,Mensal,True,Conta Eletronica,95.0,95.0,Classe_00_12,True,0.852495955554876
+3096-GKWEB,Masculino,False,True,False,18,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,94.75,1691.9,Classe_12_24,True,0.8523793932766497
+6326-MTTXK,Masculino,False,False,False,8,True,True,Fibra,False,True,False,False,True,True,Mensal,False,Conta Eletronica,100.85,819.55,Classe_00_12,True,0.8520790282569353
+1564-NTYXF,Feminino,True,False,False,13,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,82.0,1127.2,Classe_12_24,True,0.8517969569942184
+5644-PDMZC,Feminino,True,False,False,2,True,True,Fibra,False,True,False,False,False,True,Mensal,False,Conta Eletronica,89.5,161.5,Classe_00_12,True,0.8507317148757056
+0880-TKATG,Masculino,False,True,True,4,True,True,Fibra,False,False,True,False,True,True,Mensal,False,Conta Eletronica,101.15,385.9,Classe_00_12,True,0.8504174567094225
+9605-WGJVW,Feminino,True,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.2,70.2,Classe_00_12,True,0.850367373341856
+1846-XWOQN,Feminino,True,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.15,70.15,Classe_00_12,True,0.8503665829288511
+8000-REIQB,Feminino,True,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.95,69.95,Classe_00_12,True,0.8503634212424259
+2691-NZETQ,Masculino,False,False,False,9,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,85.35,758.6,Classe_00_12,True,0.8500857958222521
+2737-WFVYW,Feminino,False,False,False,2,False,Sem Telefone,DSL,False,False,False,False,True,True,Mensal,True,Conta Eletronica,45.25,85.5,Classe_00_12,True,0.8496129170363368
+2609-IAICY,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,77.15,77.15,Classe_00_12,True,0.8495788004554898
+4884-ZTHVF,Feminino,True,False,False,8,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Conta Eletronica,87.1,713.6,Classe_00_12,True,0.8495737448986317
+9897-KXHCM,Feminino,False,True,True,3,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,80.3,250.05,Classe_00_12,True,0.8495615356523947
+8816-VXNZD,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,75.1,75.1,Classe_00_12,True,0.8495462501191469
+7005-CCBKV,Masculino,False,False,False,6,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,84.4,556.35,Classe_00_12,True,0.8490605254891782
+5445-UTODQ,Feminino,False,True,False,7,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,81.1,576.65,Classe_00_12,True,0.848198287300046
+8258-GSTJK,Masculino,True,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,77.0,237.75,Classe_00_12,True,0.8473572467252879
+7576-OYWBN,Masculino,True,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.05,231.8,Classe_00_12,True,0.8472616107145958
+7120-RFMVS,Masculino,False,False,False,1,True,True,Fibra,False,False,False,False,True,False,Mensal,False,Conta Eletronica,84.5,84.5,Classe_00_12,True,0.8471277067680963
+8644-XLFBW,Masculino,True,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,71.65,71.65,Classe_00_12,True,0.8468385875134965
+9603-OAIHC,Masculino,True,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.05,70.05,Classe_00_12,True,0.8468128035210437
+5288-AHOUP,Masculino,True,False,False,11,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,78.5,874.2,Classe_00_12,True,0.8463579287776628
+4285-GYRQC,Feminino,False,True,False,7,True,False,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,86.25,587.1,Classe_00_12,True,0.8463546907366865
+4342-HENTK,Feminino,True,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.65,142.35,Classe_00_12,True,0.8461177436568718
+5883-GTGVD,Masculino,False,False,False,19,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,99.95,1931.75,Classe_12_24,True,0.8458635932441333
+2506-TNFCO,Feminino,True,True,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.55,69.55,Classe_00_12,True,0.8456647164789582
+2081-VEYEH,Masculino,False,False,False,3,True,False,Fibra,False,True,True,True,True,True,Mensal,True,Conta Eletronica,107.95,318.6,Classe_00_12,True,0.8451289949114019
+8348-HFYIV,Masculino,False,False,False,2,False,Sem Telefone,DSL,False,False,True,False,True,True,Mensal,True,Conta Eletronica,49.25,90.35,Classe_00_12,True,0.8440896269903363
+8943-URTMR,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Papel,79.65,152.7,Classe_00_12,True,0.8440568118114982
+3045-XETSH,Feminino,False,False,False,10,True,True,Fibra,False,True,True,False,False,True,Mensal,True,Conta Eletronica,94.85,953.45,Classe_00_12,True,0.8439741405465531
+6015-VVHHE,Feminino,True,False,False,5,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Credito Automatico,83.15,446.05,Classe_00_12,True,0.8429269945968942
+1285-OKIPP,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,True,Mensal,False,Conta Eletronica,79.9,79.9,Classe_00_12,True,0.8426317958818433
+9189-JWSHV,Feminino,True,True,False,24,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,93.55,2264.05,Classe_12_24,True,0.8421907072603828
+1363-TXLSL,Masculino,True,True,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.3,70.3,Classe_00_12,True,0.8420340607068055
+0637-KVDLV,Masculino,False,False,False,2,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.5,162.45,Classe_00_12,True,0.841878609868137
+2472-OVKUP,Masculino,False,True,False,6,True,False,Fibra,False,True,True,False,False,True,Mensal,True,Conta Eletronica,91.0,531.0,Classe_00_12,True,0.8418619075316303
+0432-CAJZV,Masculino,False,False,False,3,True,False,Fibra,False,False,False,False,True,True,Mensal,False,Conta Papel,90.7,237.65,Classe_00_12,True,0.8416994570909714
+2055-PDADH,Feminino,True,False,False,3,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.4,204.7,Classe_00_12,True,0.8416076469115842
+1320-HTRDR,Feminino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,75.5,220.6,Classe_00_12,True,0.8409303472515841
+4090-KPJIP,Feminino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.95,212.4,Classe_00_12,True,0.8407940264039907
+7249-WBIYX,Masculino,False,True,False,10,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,85.6,813.85,Classe_00_12,True,0.8407408840993114
+6653-CBBOM,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.3,70.3,Classe_00_12,True,0.8406570808709652
+3244-DCJWY,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.25,70.25,Classe_00_12,True,0.8406562487761673
+1977-STDKI,Feminino,True,False,False,1,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,73.0,73.0,Classe_00_12,True,0.840605223363666
+0480-BIXDE,Feminino,False,True,False,19,True,False,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,96.8,1743.05,Classe_12_24,True,0.8405786081899224
+6407-UTSLV,Feminino,True,False,False,2,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Debito Automatico,83.8,163.7,Classe_00_12,True,0.8404186622637124
+0404-SWRVG,Masculino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.4,229.55,Classe_00_12,True,0.8373485535154662
+5835-BEQEU,Masculino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.95,228.4,Classe_00_12,True,0.8373290939465342
+7254-IQWOZ,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.65,69.65,Classe_00_12,True,0.8369075996687663
+6502-MJQAE,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.6,69.6,Classe_00_12,True,0.8369067517926763
+6457-GIRWB,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.35,69.35,Classe_00_12,True,0.836902512358992
+5956-VKDTT,Feminino,True,True,False,5,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.35,334.8,Classe_00_12,True,0.8366296204964189
+4749-OJKQU,Feminino,False,False,False,4,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,75.65,302.35,Classe_00_12,True,0.8366273270871537
+5429-LWCMV,Feminino,False,False,False,12,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,89.15,1057.55,Classe_00_12,True,0.8365285774652826
+3721-CNEYS,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.95,137.95,Classe_00_12,True,0.8361082054167795
+3329-WDIOK,Feminino,False,False,False,3,False,Sem Telefone,DSL,False,True,False,False,True,True,Mensal,True,Conta Eletronica,50.6,155.35,Classe_00_12,True,0.8352322601886777
+3874-EQOEP,Masculino,False,False,False,7,True,True,Fibra,False,False,False,False,True,True,Mensal,False,Conta Papel,95.0,655.5,Classe_00_12,True,0.8351054961157317
+9360-OMDZZ,Masculino,False,False,False,24,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,94.1,2322.85,Classe_12_24,True,0.8342860304628935
+8017-LXHFA,Feminino,True,False,False,23,True,False,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,94.75,2293.6,Classe_12_24,True,0.8340016411342214
+3292-PBZEJ,Masculino,True,False,False,11,True,True,Fibra,False,True,True,True,True,True,Mensal,True,Conta Eletronica,111.4,1183.05,Classe_00_12,True,0.8334343010542585
+6507-ZJSUR,Masculino,True,True,False,23,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,90.45,2117.25,Classe_12_24,True,0.8324911825818346
+5318-IXUZF,Feminino,False,False,False,2,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Debito Automatico,87.15,183.75,Classe_00_12,True,0.8305407976232987
+5196-SGOAK,Feminino,False,False,False,1,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,75.7,75.7,Classe_00_12,True,0.8304332715212274
+3765-JXVKY,Feminino,False,False,False,1,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,74.7,74.7,Classe_00_12,True,0.8304157765412512
+6110-OHIHY,Masculino,False,False,False,3,True,False,Fibra,False,False,False,False,True,False,Mensal,False,Conta Eletronica,79.25,267.6,Classe_00_12,True,0.8297299782890439
+3372-KWFBM,Masculino,True,False,False,16,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,86.6,1281.0,Classe_12_24,True,0.8293036862150341
+2982-IHMFT,Feminino,True,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,74.45,74.45,Classe_00_12,True,0.8291899643649693
+7044-YAACC,Masculino,True,True,False,4,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.2,280.35,Classe_00_12,True,0.8282965377716998
+6712-OAWRH,Feminino,True,False,False,26,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,91.25,2351.8,Classe_24_48,True,0.8278760268362582
+7341-LXCAF,Masculino,False,True,False,4,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.65,301.4,Classe_00_12,True,0.8276652602177362
+7517-LDMPS,Feminino,False,False,False,12,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,84.6,1017.35,Classe_00_12,True,0.8263968381129065
+7029-RPUAV,Masculino,True,True,False,17,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,100.45,1622.45,Classe_12_24,True,0.8262608556006447
+8945-GRKHX,Feminino,False,False,True,1,True,False,Fibra,False,False,False,False,False,True,Mensal,False,Conta Eletronica,78.65,78.65,Classe_00_12,True,0.8256540328869546
+8372-JUXUI,Masculino,False,False,True,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.35,74.35,Classe_00_12,True,0.8253474351934551
+6833-JMZYP,Feminino,False,False,False,15,True,False,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,94.0,1505.45,Classe_12_24,True,0.8250776528778063
+2516-VQRRV,Feminino,True,False,False,2,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,75.45,158.4,Classe_00_12,True,0.8246751042602064
+7508-MYBOG,Masculino,False,True,False,14,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,86.1,1235.55,Classe_12_24,True,0.824657758381275
+4229-CZMLL,Masculino,False,False,False,6,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.9,469.8,Classe_00_12,True,0.8238342562366007
+0122-OAHPZ,Feminino,False,False,False,7,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,73.85,511.25,Classe_00_12,True,0.8224978560111481
+8808-ELEHO,Masculino,True,False,False,8,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Conta Eletronica,81.25,585.95,Classe_00_12,True,0.8222760224026188
+9095-HFAFX,Feminino,False,False,False,5,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Credito Automatico,81.0,389.6,Classe_00_12,True,0.8222196624198189
+4770-UEZOX,Masculino,False,False,False,2,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,74.75,144.8,Classe_00_12,True,0.8216636683911674
+8132-YPVBX,Feminino,False,False,False,6,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Conta Papel,85.95,514.6,Classe_00_12,True,0.8211665733448107
+9734-YWGEX,Feminino,False,False,False,9,True,True,Fibra,False,False,True,False,True,True,Mensal,False,Credito Automatico,98.3,923.5,Classe_00_12,True,0.8209690743494229
+2636-OHFMN,Masculino,False,True,False,4,False,Sem Telefone,DSL,False,True,False,False,True,True,Mensal,True,Conta Eletronica,48.55,201.0,Classe_00_12,True,0.8209518158340308
+2135-DQWAQ,Feminino,False,False,False,5,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Conta Papel,85.3,420.45,Classe_00_12,True,0.8206802025323876
+6860-YRJZP,Masculino,True,False,False,9,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.05,678.45,Classe_00_12,True,0.8200821187800661
+4021-RQSNY,Masculino,True,True,False,29,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,98.5,3004.15,Classe_24_48,True,0.8195766967258696
+4550-EVXNY,Feminino,False,False,True,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.65,69.65,Classe_00_12,True,0.819467581691213
+7994-UYIVZ,Masculino,False,True,False,8,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Debito Automatico,85.65,659.45,Classe_00_12,True,0.818860778735579
+8541-QVFKM,Feminino,False,False,False,8,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,73.5,632.2,Classe_00_12,True,0.8185287680965134
+0018-NYROU,Feminino,False,True,False,5,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,68.95,351.5,Classe_00_12,True,0.8166387682984465
+1448-PWKYE,Masculino,False,True,True,1,True,False,Fibra,False,False,False,False,False,True,Mensal,False,Conta Eletronica,80.0,80.0,Classe_00_12,True,0.8162650963917
+8380-PEFPE,Masculino,False,False,True,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,71.65,71.65,Classe_00_12,True,0.8153785899587174
+3707-GNWHM,Masculino,False,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,74.25,74.25,Classe_00_12,True,0.8142479421916222
+4282-YMKNA,Feminino,False,False,False,9,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.75,706.6,Classe_00_12,True,0.8136155373177039
+1569-TTNYJ,Masculino,False,True,False,5,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,78.75,412.1,Classe_00_12,True,0.812425754845154
+8443-WVPSS,Masculino,False,True,False,10,True,False,Fibra,False,True,False,True,True,True,Mensal,True,Conta Eletronica,99.85,990.9,Classe_00_12,True,0.812404503356414
+1980-KXVPM,Feminino,True,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,75.05,256.25,Classe_00_12,True,0.8111899614170841
+3091-FYHKI,Masculino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Conta Eletronica,35.45,35.45,Classe_00_12,True,0.8110574163657309
+6960-HVYXR,Feminino,False,False,False,1,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,76.0,76.0,Classe_00_12,True,0.8109285780804589
+4612-SSVHJ,Feminino,True,False,False,20,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,81.45,1671.6,Classe_12_24,True,0.8108015376320692
+6215-NQCPY,Masculino,False,False,False,15,True,True,Fibra,True,False,False,False,True,True,Mensal,True,Conta Eletronica,99.7,1566.75,Classe_12_24,True,0.8104900198044117
+8266-VBFQL,Masculino,False,False,False,4,True,False,Fibra,False,False,True,True,False,True,Mensal,True,Conta Eletronica,90.4,356.65,Classe_00_12,True,0.8102992263602194
+6416-TVAIH,Masculino,False,True,True,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,68.5,68.5,Classe_00_12,True,0.8097743889693653
+8065-YKXKD,Feminino,False,False,False,10,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.75,799.65,Classe_00_12,True,0.808958727331794
+6702-OHFWR,Masculino,True,False,False,1,False,Sem Telefone,DSL,False,True,True,False,False,True,Mensal,True,Conta Eletronica,43.3,43.3,Classe_00_12,True,0.8087027023246588
+3143-JQEGI,Feminino,False,True,True,13,True,False,Fibra,False,False,False,False,True,True,Mensal,False,Conta Eletronica,88.35,1222.8,Classe_12_24,True,0.8084418210392113
+2619-WFQWU,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,70.15,70.15,Classe_00_12,True,0.8080928643745067
+0685-MLYYM,Feminino,True,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,70.75,154.85,Classe_00_12,True,0.8070446877933438
+0125-LZQXK,Masculino,False,False,False,15,True,False,Fibra,False,False,True,True,True,True,Mensal,True,Conta Eletronica,101.35,1553.95,Classe_12_24,True,0.8056093273360617
+8290-YWKHZ,Feminino,True,True,False,32,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,93.2,2931.0,Classe_24_48,True,0.8055974428616169
+7615-ESMYF,Feminino,False,True,False,2,False,Sem Telefone,DSL,False,False,False,False,True,True,Mensal,False,Conta Eletronica,44.6,97.1,Classe_00_12,True,0.8055730143795978
+8361-LTMKD,Masculino,True,True,False,4,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,74.4,306.6,Classe_00_12,True,0.8051419764076623
+4647-MUZON,Feminino,False,True,False,18,True,False,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,95.95,1745.5,Classe_12_24,True,0.8051211568158886
+8035-PWSEV,Feminino,False,False,False,6,True,False,Fibra,False,False,True,True,False,True,Mensal,True,Conta Eletronica,89.25,487.05,Classe_00_12,True,0.8040571604350079
+7379-FNIUJ,Masculino,False,False,False,2,True,False,Fibra,True,True,False,False,True,True,Mensal,False,Conta Eletronica,100.2,198.5,Classe_00_12,True,0.8039872636896422
+2485-ITVKB,Feminino,False,True,False,2,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Conta Eletronica,35.1,68.75,Classe_00_12,True,0.803812190131362
+9617-INGJY,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,70.6,70.6,Classe_00_12,True,0.8037775507991682
+0168-XZKBB,Feminino,False,True,False,19,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,86.85,1564.4,Classe_12_24,True,0.8032671435494703
+7908-QCBCA,Feminino,False,True,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,69.4,69.4,Classe_00_12,True,0.8023684076386072
+4817-VYYWS,Feminino,False,False,False,30,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,100.2,2983.8,Classe_24_48,True,0.802042732783449
+5947-SGKCL,Feminino,False,True,True,15,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Debito Automatico,105.35,1559.25,Classe_12_24,True,0.8015612434370242
+3370-HXOPH,Feminino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,76.1,257.6,Classe_00_12,True,0.8013351594855443
+5027-QPKTE,Masculino,False,True,False,7,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,69.35,451.1,Classe_00_12,True,0.8013110284936813
+8481-YYXWG,Feminino,False,False,False,5,True,False,Fibra,False,True,False,True,False,True,Mensal,True,Conta Eletronica,89.35,461.7,Classe_00_12,True,0.8007720931340242
+2856-HYAPG,Feminino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,68.65,68.65,Classe_00_12,True,0.8002434961376228
+4124-MMETB,Masculino,False,False,False,22,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Credito Automatico,94.65,2104.55,Classe_12_24,True,0.8001034803709762
+5628-FCGYG,Masculino,False,False,False,21,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,84.1,1737.45,Classe_12_24,True,0.8000703984373481
+5366-IJEQJ,Masculino,False,False,False,20,True,True,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,88.7,1761.45,Classe_12_24,True,0.7994016287918422
+8648-PFRMP,Feminino,True,False,False,14,False,Sem Telefone,DSL,False,False,False,False,True,True,Mensal,True,Conta Eletronica,46.35,672.7,Classe_12_24,True,0.7982115856433923
+3427-GGZZI,Feminino,False,True,False,19,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,89.1,1620.8,Classe_12_24,True,0.7977583220774928
+4585-HETAI,Feminino,False,True,True,4,True,False,Fibra,False,False,True,False,False,False,Mensal,True,Conta Eletronica,73.75,325.45,Classe_00_12,True,0.7968359056693407
+1602-IJQQE,Feminino,False,False,False,4,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,75.35,338.1,Classe_00_12,True,0.7961953993136469
+7823-JSOAG,Masculino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,74.5,217.45,Classe_00_12,True,0.7960884994889399
+7153-OANIO,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,69.95,69.95,Classe_00_12,True,0.7958134405601731
+6137-NICCO,Feminino,False,True,True,6,True,True,Fibra,False,True,True,False,True,False,Mensal,True,Conta Papel,94.05,518.75,Classe_00_12,True,0.7951523623339664
+7538-GWHML,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,69.65,145.15,Classe_00_12,True,0.7950017376888532
+1571-SAVHK,Masculino,False,False,False,12,True,True,Fibra,False,False,False,True,True,True,Mensal,True,Conta Papel,99.95,1132.75,Classe_00_12,True,0.7945812796640656
+8111-RKSPX,Masculino,False,False,False,4,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,72.2,305.55,Classe_00_12,True,0.7945589019709048
+2665-NPTGL,Feminino,True,True,False,26,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Debito Automatico,98.1,2510.7,Classe_24_48,True,0.7945042625555714
+6993-OHLXR,Feminino,False,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,68.95,119.75,Classe_00_12,True,0.7944869758651896
+1236-WFCDV,Masculino,True,False,False,14,True,False,Fibra,False,False,False,False,True,True,Mensal,False,Credito Automatico,90.45,1266.1,Classe_12_24,True,0.7942186819863879
+3420-YJLQT,Feminino,False,False,False,2,True,True,Fibra,False,True,False,False,False,False,Mensal,False,Conta Eletronica,79.55,151.75,Classe_00_12,True,0.7938667480898021
+0315-LVCRK,Masculino,False,False,False,11,True,False,Fibra,False,False,True,False,False,True,Mensal,False,Conta Eletronica,84.8,888.75,Classe_00_12,True,0.7929997109123196
+0495-ZBNGW,Masculino,True,True,False,5,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Debito Automatico,79.9,343.95,Classe_00_12,True,0.7921341677741608
+0620-DLSLK,Feminino,False,False,False,13,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Conta Papel,81.9,1028.9,Classe_12_24,True,0.7918023368654613
+1907-UBQFC,Masculino,True,False,False,10,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,72.85,688.65,Classe_00_12,True,0.7914640140642073
+3223-DWFIO,Masculino,True,False,False,4,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,69.35,261.65,Classe_00_12,True,0.7912678617983555
+2025-JKFWI,Masculino,False,False,False,13,True,True,Fibra,False,False,False,True,True,True,Mensal,True,Conta Papel,99.0,1301.7,Classe_12_24,True,0.791134325585439
+1268-ASBGA,Feminino,True,True,False,16,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Credito Automatico,85.35,1375.15,Classe_12_24,True,0.7910090360586015
+6899-PPEEA,Feminino,True,False,False,37,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,96.55,3580.3,Classe_24_48,True,0.7906483545932896
+6198-ZFIOJ,Feminino,False,False,False,5,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,75.6,402.5,Classe_00_12,True,0.7906264390255239
+6175-IRFIT,Masculino,False,False,False,5,True,False,Fibra,False,False,False,False,False,True,Mensal,False,Conta Papel,78.75,426.35,Classe_00_12,True,0.790448260370343
+4441-NIHPT,Feminino,True,False,False,13,True,False,Fibra,False,False,True,False,False,False,Mensal,True,Conta Eletronica,74.3,940.35,Classe_12_24,True,0.7902288618819678
+5569-KGJHX,Feminino,False,True,True,9,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Debito Automatico,85.35,754.65,Classe_00_12,True,0.7895566699961503
+4450-DLLMH,Masculino,False,False,False,2,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,71.3,157.75,Classe_00_12,True,0.7888748155876311
+3916-NRPAP,Masculino,False,False,False,3,True,False,Fibra,False,False,True,False,False,True,Mensal,False,Credito Automatico,85.7,256.75,Classe_00_12,True,0.7882156886797314
+9840-EFJQB,Feminino,False,False,False,1,True,False,Fibra,False,True,False,False,False,False,Mensal,False,Conta Eletronica,74.35,74.35,Classe_00_12,True,0.7880865542911429
+7693-LCKZL,Masculino,False,True,True,5,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,80.15,385.0,Classe_00_12,True,0.7878782181487423
+1965-AKTSX,Feminino,True,False,False,14,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,78.95,1101.85,Classe_12_24,True,0.7878756055833692
+6029-WTIPC,Masculino,True,False,False,37,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,101.1,3744.05,Classe_24_48,True,0.7868410667320935
+9894-EZEWG,Feminino,False,False,False,1,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Credito Automatico,74.3,74.3,Classe_00_12,True,0.786225129791304
+3597-MVHJT,Feminino,False,False,False,27,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,95.6,2595.25,Classe_24_48,True,0.7855658070612722
+2397-BRLOM,Masculino,True,True,True,8,True,False,Fibra,False,False,False,False,True,False,Mensal,True,Credito Automatico,80.45,583.45,Classe_00_12,True,0.784083422657634
+8397-MVTAZ,Masculino,False,True,False,34,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,100.05,3480.0,Classe_24_48,True,0.7838655147711505
+7912-SYRQT,Feminino,False,False,False,7,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,75.1,552.95,Classe_00_12,True,0.7833127507309913
+9647-ERGBE,Feminino,False,True,True,30,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,100.05,3046.15,Classe_24_48,True,0.7823982150537222
+2249-YPRNG,Feminino,False,True,True,20,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Debito Automatico,105.85,2239.65,Classe_12_24,True,0.7808660525183956
+9367-WXLCH,Masculino,False,False,False,8,True,True,Fibra,False,False,False,False,False,True,Mensal,False,Debito Automatico,84.5,662.65,Classe_00_12,True,0.7808028974445315
+8008-HAWED,Masculino,False,False,False,14,False,Sem Telefone,DSL,False,False,True,False,True,True,Mensal,True,Conta Eletronica,50.75,712.75,Classe_12_24,True,0.7794671119966462
+4822-NGOCH,Feminino,False,False,False,13,True,True,Fibra,False,True,True,False,False,False,Mensal,True,Conta Eletronica,84.45,1058.6,Classe_12_24,True,0.7788287682814922
+8010-EZLOU,Masculino,True,False,False,15,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,80.2,1217.25,Classe_12_24,True,0.7784882631007034
+0378-TOVMS,Feminino,False,False,False,3,True,False,Fibra,False,False,False,True,False,True,Mensal,False,Conta Eletronica,85.8,272.2,Classe_00_12,True,0.7775649884062641
+1086-LXKFY,Feminino,False,True,True,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,69.1,69.1,Classe_00_12,True,0.7774428037266234
+0023-XUOPT,Feminino,False,True,False,13,True,True,Fibra,False,True,True,False,True,False,Mensal,False,Conta Eletronica,94.1,1215.6,Classe_12_24,True,0.7772361476347127
+9355-NPPFS,Feminino,True,False,False,26,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,78.8,2006.1,Classe_24_48,True,0.7764183203449924
+8417-FMLZI,Masculino,False,True,True,6,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Credito Automatico,83.55,477.55,Classe_00_12,True,0.7763541969935095
+2860-RANUS,Feminino,True,False,False,20,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Credito Automatico,85.8,1727.5,Classe_12_24,True,0.7761360491256862
+0231-LXVAP,Masculino,False,False,False,1,True,False,Fibra,False,False,False,True,False,False,Mensal,True,Conta Eletronica,75.9,75.9,Classe_00_12,True,0.7759435447574565
+1768-ZAIFU,Feminino,True,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,25.2,25.2,Classe_00_12,True,0.7757845755259939
+4480-QQRHC,Feminino,True,False,False,8,True,False,Fibra,False,False,True,False,False,False,Mensal,True,Debito Automatico,74.05,600.15,Classe_00_12,True,0.7756448328143934
+0311-UNPFF,Feminino,False,False,False,26,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,88.8,2274.35,Classe_24_48,True,0.7743758645199595
+9912-GVSEQ,Feminino,True,True,False,26,True,True,Fibra,False,True,True,False,False,True,Mensal,True,Conta Eletronica,93.85,2381.55,Classe_24_48,True,0.7741395095427583
+3496-LFSZU,Masculino,False,True,False,4,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,70.5,294.2,Classe_00_12,True,0.7730908974138622
+6907-NZZIJ,Feminino,False,False,False,36,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,99.15,3615.6,Classe_24_48,True,0.773071081359185
+5590-BYNII,Masculino,False,False,False,22,True,True,Fibra,True,False,False,False,True,True,Mensal,True,Conta Eletronica,100.75,2095.0,Classe_12_24,True,0.7729383728342702
+1062-LHZOD,Masculino,False,True,True,1,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,69.9,69.9,Classe_00_12,True,0.7726398361345787
+1689-YQBYY,Feminino,False,False,True,12,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.6,893.0,Classe_00_12,True,0.7721690277905817
+0115-TFERT,Masculino,False,True,False,21,True,True,Fibra,False,True,True,True,True,True,Mensal,True,Conta Eletronica,111.2,2317.1,Classe_12_24,True,0.7721501230685025
+2408-WITXK,Feminino,True,False,False,10,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Conta Eletronica,34.7,329.8,Classe_00_12,True,0.7716551893519268
+8949-JTMAY,Feminino,False,False,False,29,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,98.6,2933.2,Classe_24_48,True,0.7699704579263129
+4059-IIEBK,Feminino,False,False,False,7,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Debito Automatico,78.55,522.95,Classe_00_12,True,0.769635612412774
+1740-CSDJP,Masculino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Debito Automatico,35.25,35.25,Classe_00_12,True,0.7691297712402573
+9565-DJPIB,Feminino,False,False,True,4,True,True,Fibra,False,True,False,False,True,False,Mensal,False,Conta Papel,89.6,365.65,Classe_00_12,True,0.7681785183540869
+4998-IKFSE,Feminino,False,False,False,30,True,True,Fibra,False,False,True,False,True,True,Mensal,False,Conta Eletronica,100.45,3096.9,Classe_24_48,True,0.7680989537901267
+6435-SRWBJ,Feminino,False,False,False,5,True,True,Fibra,False,False,True,True,False,False,Mensal,True,Conta Eletronica,82.75,417.75,Classe_00_12,True,0.7678420658041869
+9050-QLROH,Masculino,False,False,False,18,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Credito Automatico,90.7,1597.25,Classe_12_24,True,0.767366075551337
+1866-RZZQS,Masculino,True,False,False,41,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,98.4,4187.75,Classe_24_48,True,0.7673127494090695
+6347-DCUIK,Masculino,False,False,False,10,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,74.15,811.8,Classe_00_12,True,0.7670412146623132
+9796-BPKIW,Masculino,True,False,False,8,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,69.95,562.7,Classe_00_12,True,0.7669143724928725
+9093-FPDLG,Feminino,False,False,False,11,True,False,Fibra,False,True,True,True,False,True,Mensal,True,Conta Eletronica,94.2,999.9,Classe_00_12,True,0.766844074338964
+9436-ZBZCT,Masculino,False,False,False,14,True,True,Fibra,False,False,False,True,True,False,Mensal,True,Conta Eletronica,89.95,1178.4,Classe_12_24,True,0.7655848000058255
+7495-OOKFY,Feminino,True,True,False,8,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Credito Automatico,80.65,633.3,Classe_00_12,True,0.7655243248352107
+7854-FOKSF,Masculino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,False,Conta Eletronica,35.9,35.9,Classe_00_12,True,0.7652799618941905
+4301-VVZKA,Masculino,False,True,False,16,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,75.4,1189.4,Classe_12_24,True,0.7641834366999412
+5044-LRQAQ,Feminino,False,True,False,7,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,69.2,477.55,Classe_00_12,True,0.7635018956201626
+5117-IFGPS,Masculino,True,True,False,29,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,84.3,2357.75,Classe_24_48,True,0.7624096827151589
+9274-UARKJ,Feminino,False,False,False,15,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Debito Automatico,83.2,1130.0,Classe_12_24,True,0.7615701221831394
+7562-GSUHK,Feminino,False,False,False,16,True,False,Fibra,False,True,True,False,False,True,Mensal,True,Credito Automatico,93.2,1573.7,Classe_12_24,True,0.761288399036289
+1307-ATKGB,Masculino,False,False,False,24,True,False,Fibra,False,True,True,False,False,True,Mensal,True,Conta Eletronica,89.55,2187.15,Classe_12_24,True,0.7610969776925075
+3966-HRMZA,Feminino,True,False,False,3,True,False,Fibra,False,False,True,False,False,False,Mensal,False,Conta Papel,75.05,202.9,Classe_00_12,True,0.7602270657344912
+9129-UXERG,Feminino,True,False,False,18,True,True,Fibra,False,True,False,True,True,True,Mensal,True,Credito Automatico,103.6,1806.35,Classe_12_24,True,0.7596461264478792
+4919-MOAVT,Masculino,False,False,True,3,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,69.65,220.1,Classe_00_12,True,0.7585467240070595
+7365-BVCJH,Masculino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,24.4,24.4,Classe_00_12,True,0.757523165081698
+2080-CAZNM,Feminino,True,False,False,41,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,104.4,4133.95,Classe_24_48,True,0.7575084664299351
+7571-YXDAD,Feminino,False,False,False,2,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Credito Automatico,74.9,147.15,Classe_00_12,True,0.7570748903402212
+4369-HTUIF,Masculino,True,False,False,6,True,False,Fibra,True,False,False,False,True,False,Mensal,True,Debito Automatico,85.15,503.6,Classe_00_12,True,0.7569674073285887
+6680-WKXRZ,Feminino,False,False,False,3,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Debito Automatico,74.4,215.8,Classe_00_12,True,0.7569444985819724
+5842-POCOP,Feminino,False,True,False,5,True,False,Fibra,True,False,True,False,False,True,Mensal,True,Conta Papel,88.9,454.15,Classe_00_12,True,0.7567411628436475
+5884-GCYMI,Masculino,False,False,False,1,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Papel,69.4,69.4,Classe_00_12,True,0.7567275338863266
+4373-MAVJG,Feminino,False,True,True,14,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Debito Automatico,90.9,1259.0,Classe_12_24,True,0.7564874862775007
+6260-ONULR,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,True,True,Mensal,True,Conta Papel,62.8,62.8,Classe_00_12,True,0.7558617969476775
+3211-AAPKX,Masculino,False,False,False,20,True,True,Fibra,False,False,False,True,True,True,Mensal,True,Conta Papel,98.55,2031.95,Classe_12_24,True,0.755590188836692
+6551-GNYDG,Feminino,False,True,True,14,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Debito Automatico,80.9,1152.8,Classe_12_24,True,0.7554869196668494
+1658-TJVOA,Feminino,True,False,False,6,True,False,Fibra,True,False,False,False,False,False,Mensal,True,Conta Eletronica,74.1,450.9,Classe_00_12,True,0.7554524056736602
+3951-NJCVI,Feminino,True,True,False,42,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.05,3944.5,Classe_24_48,True,0.7554298729409953
+9054-FOWNV,Masculino,False,True,True,22,True,True,Fibra,False,False,True,False,True,False,Mensal,True,Conta Eletronica,88.75,1885.15,Classe_12_24,True,0.7553331404407455
+3627-FCRDW,Feminino,False,False,False,9,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Eletronica,71.0,672.55,Classe_00_12,True,0.7552881087523909
+2656-FMOKZ,Feminino,True,False,False,15,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Papel,74.45,1145.7,Classe_12_24,True,0.7549687801012883
+0027-KWYKW,Feminino,False,True,True,23,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,83.75,1849.95,Classe_12_24,True,0.7547490831528614
+2685-SREOM,Feminino,False,True,True,25,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Conta Eletronica,89.1,2368.4,Classe_24_48,True,0.7544709733469096
+6818-DJXAA,Feminino,False,False,True,10,True,False,Fibra,False,False,True,True,True,False,Mensal,True,Conta Eletronica,91.1,964.35,Classe_00_12,True,0.7538668143160728
+4547-KQRTM,Feminino,False,False,False,10,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Debito Automatico,80.05,830.7,Classe_00_12,True,0.7537204041909891
+5599-HVLTW,Feminino,True,False,False,14,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Debito Automatico,80.35,1058.1,Classe_12_24,True,0.7526534216956831
+0524-IAVZO,Feminino,False,True,False,30,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,85.0,2624.25,Classe_24_48,True,0.7521929179763528
+6338-AVWCY,Masculino,False,False,False,3,False,Sem Telefone,DSL,False,False,True,False,True,False,Mensal,True,Conta Papel,40.15,130.75,Classe_00_12,True,0.7521668076670802
+3797-VTIDR,Masculino,False,True,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,23.45,23.45,Classe_00_12,True,0.7507508620364951
+9415-DPEWS,Feminino,False,False,False,18,True,True,Fibra,False,False,False,True,True,False,Mensal,True,Conta Eletronica,88.35,1639.3,Classe_12_24,True,0.7503615782242402
+5520-FVEWJ,Feminino,False,True,True,12,True,True,Fibra,False,True,True,False,False,False,Mensal,True,Conta Eletronica,84.5,916.9,Classe_00_12,True,0.7496072796250625
+1769-GRUIK,Feminino,False,False,False,18,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,71.1,1247.75,Classe_12_24,True,0.7494681984132334
+2504-DSHIH,Masculino,True,True,False,23,True,True,Fibra,False,False,False,False,False,True,Mensal,False,Conta Eletronica,86.8,1975.85,Classe_12_24,True,0.7493702072639784
+1262-OPMFY,Feminino,False,True,False,9,True,False,Fibra,False,False,True,False,False,False,Mensal,True,Debito Automatico,75.75,655.9,Classe_00_12,True,0.749252728468152
+0749-IRGQE,Feminino,True,True,False,13,False,Sem Telefone,DSL,False,False,False,False,True,True,Mensal,False,Conta Eletronica,45.3,528.45,Classe_12_24,True,0.7479481331235697
+0219-YTZUE,Masculino,False,True,True,4,True,True,Fibra,False,True,True,False,False,False,Mensal,True,Debito Automatico,84.8,371.9,Classe_00_12,True,0.7471597250993028
+0886-QGENL,Feminino,True,True,False,27,True,False,Fibra,True,False,True,False,True,True,Mensal,True,Conta Eletronica,101.25,2754.45,Classe_24_48,True,0.7464476209702284
+4716-HHKQH,Masculino,True,True,False,20,True,True,Fibra,False,True,False,True,True,True,Mensal,False,Conta Eletronica,107.05,2172.05,Classe_12_24,True,0.7425500018980717
+7590-VHVEG,Feminino,False,True,False,1,False,Sem Telefone,DSL,False,True,False,False,False,False,Mensal,True,Conta Eletronica,29.85,29.85,Classe_00_12,True,0.741919401800294
+5669-SRAIP,Feminino,False,False,False,5,False,Sem Telefone,DSL,False,False,True,False,False,True,Mensal,False,Conta Eletronica,39.5,210.75,Classe_00_12,True,0.7403445400394806
+0928-JMXNP,Masculino,True,True,False,4,False,Sem Telefone,DSL,False,False,True,False,False,False,Mensal,True,Conta Eletronica,29.9,118.25,Classe_00_12,True,0.74025428293982
+9851-KIELU,Masculino,False,False,False,10,True,False,Fibra,True,True,True,True,True,True,Mensal,True,Conta Eletronica,110.1,1043.3,Classe_00_12,True,0.7400251435717072
+6652-YFFJO,Feminino,False,False,False,11,True,False,DSL,False,False,False,False,True,True,Mensal,True,Conta Eletronica,64.9,716.1,Classe_00_12,True,0.739735570588148
+9420-LOJKX,Feminino,False,False,False,15,True,False,Fibra,True,True,False,False,True,True,Mensal,True,Credito Automatico,99.1,1426.4,Classe_12_24,True,0.7378417170842151
+9512-UIBFX,Masculino,False,True,True,18,True,False,Fibra,False,False,True,False,True,True,Mensal,False,Conta Papel,95.15,1779.95,Classe_12_24,True,0.737034112899465
+7786-WBJYI,Feminino,False,False,False,4,True,True,Fibra,False,True,False,False,False,False,Mensal,False,Debito Automatico,77.95,305.55,Classe_00_12,True,0.7369308418019523
+7410-YTJIK,Feminino,False,False,False,7,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Papel,75.45,480.75,Classe_00_12,True,0.7367276919531659
+1723-HKXJQ,Masculino,False,False,False,42,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,101.75,4273.45,Classe_24_48,True,0.7365175463199376
+8818-DOPVL,Feminino,True,False,False,46,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,104.45,4863.85,Classe_24_48,True,0.7349447891182801
+5572-ZDXHY,Feminino,False,False,False,22,True,False,Fibra,False,True,False,False,False,True,Mensal,True,Conta Papel,84.3,1855.65,Classe_12_24,True,0.7348220690024979
+9600-NAXZN,Masculino,False,False,False,43,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,101.4,4528.0,Classe_24_48,True,0.7345033892742487
+7508-SMHXL,Feminino,True,False,False,15,True,True,Fibra,False,True,False,False,True,False,Mensal,False,Credito Automatico,89.0,1288.3,Classe_12_24,True,0.7339638309020073
+4299-SIMNS,Masculino,False,False,False,9,True,True,Fibra,True,False,False,False,False,False,Mensal,True,Conta Eletronica,81.15,784.45,Classe_00_12,True,0.7327688327755765
+5222-IMUKT,Masculino,False,False,False,32,True,False,Fibra,False,False,False,False,True,True,Mensal,False,Conta Eletronica,91.05,2871.5,Classe_24_48,True,0.7322800163576743
+4658-HCOHW,Feminino,False,True,True,21,True,False,Fibra,False,True,True,True,True,True,Mensal,True,Conta Eletronica,102.8,2110.15,Classe_12_24,True,0.7320020195823757
+0988-JRWWP,Feminino,False,False,False,3,True,False,DSL,False,False,False,False,True,False,Mensal,True,Conta Eletronica,54.2,140.4,Classe_00_12,True,0.7295858539488873
+8634-MPHTR,Masculino,True,True,False,47,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Conta Eletronica,100.05,4871.05,Classe_24_48,True,0.7290507561381615
+3269-ATYWD,Masculino,True,False,False,39,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,95.65,3759.05,Classe_24_48,True,0.728292026366915
+0947-MUGVO,Masculino,True,True,False,20,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,73.65,1463.5,Classe_12_24,True,0.7258855067589103
+2082-OJVTK,Masculino,False,True,True,29,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Conta Eletronica,89.2,2698.35,Classe_24_48,True,0.7247272500384392
+8687-BAFGU,Masculino,False,False,False,1,True,False,Fibra,False,False,False,True,False,False,Mensal,False,Conta Eletronica,74.0,74.0,Classe_00_12,True,0.7244896620634383
+2041-JIJCI,Feminino,False,False,False,5,True,True,DSL,False,True,False,False,False,True,Mensal,True,Conta Eletronica,64.0,370.25,Classe_00_12,True,0.7237103781903884
+5119-KEPFY,Masculino,False,True,False,36,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,95.0,3440.25,Classe_24_48,True,0.7234261684756644
+5666-CYCYZ,Feminino,False,False,False,24,True,True,Fibra,False,False,False,True,False,True,Mensal,True,Conta Eletronica,89.55,2259.35,Classe_12_24,True,0.7229806517795502
+4503-BDXBD,Masculino,False,False,False,11,True,False,Fibra,False,True,False,False,False,False,Mensal,False,Conta Eletronica,74.95,815.5,Classe_00_12,True,0.7227368545666069
+4412-YLTKF,Feminino,True,False,False,27,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Conta Eletronica,78.05,2135.5,Classe_24_48,True,0.7220026136852897
+6352-TWCAU,Feminino,False,False,False,35,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,86.45,3029.1,Classe_24_48,True,0.7218320935222027
+3748-FVMZZ,Masculino,False,False,False,4,False,Sem Telefone,DSL,False,False,False,True,False,True,Mensal,True,Conta Eletronica,40.05,162.45,Classe_00_12,True,0.7216673960978531
+7240-FQLHE,Feminino,True,True,False,18,True,True,Fibra,False,False,False,True,True,True,Mensal,False,Debito Automatico,99.75,1836.25,Classe_12_24,True,0.7212716732073605
+8263-JQAIK,Masculino,True,False,False,2,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,24.45,47.5,Classe_00_12,True,0.7209081751916062
+0817-HSUSE,Masculino,False,False,False,1,True,False,DSL,False,False,True,True,True,True,Mensal,True,Conta Eletronica,75.5,75.5,Classe_00_12,True,0.7206334217183358
+7395-IGJOS,Masculino,True,True,False,17,True,False,Fibra,False,False,False,False,False,True,Mensal,False,Debito Automatico,81.5,1329.2,Classe_12_24,True,0.7203091979472946
+7537-RBWEA,Feminino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,25.15,25.15,Classe_00_12,True,0.7193919807172229
+7783-YKGDV,Feminino,False,False,False,12,True,True,Fibra,True,True,True,False,False,True,Mensal,True,Debito Automatico,99.7,1238.45,Classe_00_12,True,0.7189178112521191
+3677-TNKIO,Feminino,False,False,False,14,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,71.0,914.0,Classe_12_24,True,0.7182949126483141
+5543-QDCRY,Masculino,False,False,False,4,True,False,DSL,False,False,False,False,True,False,Mensal,True,Conta Eletronica,56.4,234.85,Classe_00_12,True,0.7180137931729756
+4919-IKATY,Masculino,False,True,True,5,True,True,Fibra,True,False,True,False,False,False,Mensal,True,Conta Eletronica,84.5,453.75,Classe_00_12,True,0.7177421148605774
+5294-DMSFH,Feminino,False,True,True,29,True,False,Fibra,False,False,False,False,True,True,Mensal,True,Credito Automatico,87.8,2621.75,Classe_24_48,True,0.7172705251742257
+7901-HXJVA,Masculino,False,False,False,14,True,False,Fibra,False,False,True,False,False,False,Mensal,False,Conta Eletronica,76.45,1117.55,Classe_12_24,True,0.716916700592591
+0256-LTHVJ,Feminino,False,True,True,28,True,False,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,81.05,2227.1,Classe_24_48,True,0.7165338952090673
+3235-ETOOB,Masculino,False,True,False,8,True,False,Fibra,True,False,False,False,False,False,Mensal,True,Conta Eletronica,74.5,609.9,Classe_00_12,True,0.7161156596831982
+1384-RCUXW,Masculino,False,False,False,16,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Papel,80.55,1248.9,Classe_12_24,True,0.7148420743912861
+5449-FIBXJ,Masculino,False,True,True,19,True,True,Fibra,False,False,True,True,True,True,Mensal,False,Conta Eletronica,103.3,2012.7,Classe_12_24,True,0.7142922005476796
+4803-AXVYP,Feminino,True,False,False,38,True,True,Fibra,False,False,False,True,True,True,Mensal,True,Conta Eletronica,99.55,3734.25,Classe_24_48,True,0.7134081187975213
+0402-CQAJN,Feminino,False,False,False,37,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Debito Automatico,101.9,3545.35,Classe_24_48,True,0.7121841444862879
+5569-OUICF,Feminino,True,True,False,28,True,True,Fibra,False,False,False,True,True,True,Mensal,True,Credito Automatico,101.3,2812.2,Classe_24_48,True,0.7098401382089601
+0682-USIXD,Feminino,False,True,False,21,True,False,Fibra,False,False,False,True,True,False,Mensal,True,Conta Eletronica,86.05,1818.9,Classe_12_24,True,0.7095471689778914
+9227-LUNBG,Feminino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,24.6,24.6,Classe_00_12,True,0.7092444097216632
+5480-HPRRX,Feminino,True,False,False,3,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,25.3,77.75,Classe_00_12,True,0.7086293489939044
+0221-WMXNQ,Masculino,True,False,False,4,True,False,Fibra,True,False,False,False,False,False,Mensal,False,Conta Eletronica,75.35,273.4,Classe_00_12,True,0.7082831320605943
+7718-RXDGG,Masculino,False,True,False,15,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,68.6,1108.6,Classe_12_24,True,0.708250345255671
+8903-XEBGX,Masculino,False,False,True,2,True,False,DSL,False,False,False,False,False,True,Mensal,True,Conta Eletronica,55.3,108.65,Classe_00_12,True,0.7081049890974987
+7892-QVYKW,Feminino,False,True,True,23,True,True,Fibra,False,False,False,False,False,True,Mensal,False,Conta Eletronica,85.6,1868.4,Classe_12_24,True,0.7078329011063986
+3853-LYGAM,Masculino,False,False,False,17,True,True,Fibra,False,False,True,True,False,True,Mensal,True,Debito Automatico,95.65,1640.0,Classe_12_24,True,0.7067261064262887
+2697-NQBPF,Masculino,False,False,False,34,True,True,Fibra,False,True,False,True,True,True,Mensal,True,Conta Eletronica,105.35,3540.65,Classe_24_48,True,0.7065610152729545
+2657-ALMWY,Feminino,True,True,False,26,True,False,Fibra,False,True,False,False,False,True,Mensal,False,Conta Eletronica,84.95,2169.75,Classe_24_48,True,0.7065400290355444
+3384-CTMSF,Masculino,False,True,False,47,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,104.1,5135.15,Classe_24_48,True,0.705401805695199
+8490-BXHEO,Masculino,True,False,False,18,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Credito Automatico,80.55,1411.65,Classe_12_24,True,0.7045142409195017
+1565-RHDJD,Feminino,False,False,True,4,True,True,Fibra,False,True,True,False,False,False,Mensal,False,Debito Automatico,84.05,333.55,Classe_00_12,True,0.704268959722253
+0111-KLBQG,Masculino,True,True,True,32,True,False,Fibra,False,True,False,False,True,True,Mensal,True,Conta Papel,93.95,2861.45,Classe_24_48,True,0.7041634530636257
+4013-UBXWQ,Feminino,False,False,False,7,True,True,DSL,False,False,False,True,True,True,Mensal,True,Conta Eletronica,74.65,521.1,Classe_00_12,True,0.7029979496700784
+7318-EIVKO,Masculino,False,False,False,8,True,True,DSL,False,False,False,False,True,False,Mensal,True,Conta Eletronica,59.25,436.6,Classe_00_12,True,0.7024741718678573
+4236-UJPWO,Feminino,False,False,False,2,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,24.5,46.4,Classe_00_12,True,0.7010802697152377
+6212-ATMLK,Feminino,False,False,False,50,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.7,4729.75,Classe_48_60,True,0.7008927129299808
+1597-LHYNC,Feminino,True,False,False,26,True,True,Fibra,True,True,False,False,False,True,Mensal,True,Conta Eletronica,95.0,2497.2,Classe_24_48,True,0.7008131614316153
+3352-ALMCK,Masculino,False,False,False,40,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Papel,102.65,4108.15,Classe_24_48,True,0.7006467251436905
+8640-SDGKB,Masculino,False,False,False,4,True,False,DSL,False,False,True,True,True,True,Mensal,True,Conta Eletronica,74.4,299.7,Classe_00_12,True,0.7004674854208264
+4718-DHSMV,Feminino,False,False,False,11,False,Sem Telefone,DSL,False,False,False,False,True,False,Mensal,True,Conta Papel,35.8,363.15,Classe_00_12,True,0.6998203547913708
+9272-LSVYH,Masculino,False,False,False,10,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Conta Papel,70.15,735.5,Classe_00_12,True,0.6984170458508595
+9026-LHEVG,Feminino,False,False,False,9,False,Sem Telefone,DSL,False,True,False,False,False,True,Mensal,False,Conta Eletronica,40.75,359.4,Classe_00_12,True,0.6982051994426205
+2874-YXVVA,Feminino,False,False,False,34,True,False,Fibra,False,True,True,True,True,True,Mensal,True,Conta Eletronica,105.1,3634.8,Classe_24_48,True,0.6974561761163958
+0354-WYROK,Feminino,True,True,True,31,True,False,Fibra,False,False,True,True,True,True,Mensal,True,Conta Eletronica,98.9,2911.3,Classe_24_48,True,0.6972045764780184
+0778-NELLA,Masculino,False,False,False,9,False,Sem Telefone,DSL,False,False,False,False,True,False,Mensal,True,Credito Automatico,34.7,296.1,Classe_00_12,True,0.6971272067091874
+8543-MSDMF,Masculino,False,False,False,3,True,False,DSL,True,False,True,False,True,True,Mensal,True,Conta Eletronica,77.4,206.15,Classe_00_12,True,0.6956965225873972
+1452-KIOVK,Masculino,False,False,True,22,True,True,Fibra,False,True,False,False,True,False,Mensal,True,Credito Automatico,89.1,1949.4,Classe_12_24,True,0.6954864498529472
+5453-AXEPF,Masculino,False,True,False,17,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Debito Automatico,80.5,1336.9,Classe_12_24,True,0.6949869274130014
+7767-UXAGJ,Masculino,False,False,False,1,True,True,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,50.45,50.45,Classe_00_12,True,0.6947022922244256
+4947-DSMXK,Masculino,False,True,True,34,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Debito Automatico,97.7,3410.0,Classe_24_48,True,0.6934554556758904
+3211-ILJTT,Masculino,False,True,False,17,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,70.4,1214.05,Classe_12_24,True,0.6933963418210278
+9638-JIQYA,Masculino,False,False,False,2,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Credito Automatico,24.9,49.7,Classe_00_12,True,0.6929836726173858
+1304-BCCFO,Masculino,False,True,False,9,True,False,DSL,False,False,True,False,True,True,Mensal,True,Conta Papel,70.05,564.4,Classe_00_12,True,0.6909705571221858
+3518-PZXZQ,Feminino,False,True,False,1,True,False,DSL,False,False,False,False,True,False,Mensal,True,Conta Papel,55.3,55.3,Classe_00_12,True,0.690841449232044
+6581-NQCBA,Feminino,False,True,False,16,False,Sem Telefone,DSL,False,False,False,True,True,True,Mensal,True,Conta Eletronica,49.95,810.2,Classe_12_24,True,0.690724175813422
+5914-DVBWJ,Feminino,True,False,False,18,True,True,Fibra,False,True,False,True,False,False,Mensal,True,Conta Eletronica,85.45,1505.85,Classe_12_24,True,0.6900717145071724
+3754-DXMRT,Masculino,True,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,44.15,92.65,Classe_00_12,True,0.6883695937491212
+1608-GMEWB,Masculino,True,False,False,45,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Debito Automatico,93.9,4200.25,Classe_24_48,True,0.6875989929668227
+2322-VCZHZ,Masculino,True,True,False,23,True,False,Fibra,True,True,False,False,False,True,Mensal,True,Conta Eletronica,90.0,2024.1,Classe_12_24,True,0.6871759521562165
+9944-AEXBM,Masculino,False,False,False,32,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Debito Automatico,85.65,2664.3,Classe_24_48,True,0.6871128429229048
+5307-DZCVC,Feminino,True,True,False,32,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Credito Automatico,85.95,2628.6,Classe_24_48,True,0.6860036535236886
+3703-VAVCL,Masculino,False,True,True,2,True,False,Fibra,False,False,True,True,False,True,Mensal,False,Credito Automatico,90.0,190.05,Classe_00_12,True,0.6829136993077511
+7056-IMHCC,Masculino,True,True,False,53,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,101.9,5549.4,Classe_48_60,True,0.6819329811867597
+6284-AHOOQ,Masculino,True,False,False,22,True,True,Fibra,False,False,False,True,True,False,Mensal,True,Debito Automatico,90.5,1910.6,Classe_12_24,True,0.6812651703710155
+0599-XNYDO,Feminino,False,True,False,20,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,69.8,1540.35,Classe_12_24,True,0.6809839589612157
+7586-ZATGZ,Masculino,False,False,False,40,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Conta Eletronica,84.9,3369.05,Classe_24_48,True,0.6809765171242994
+2135-RXIHG,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,45.65,45.65,Classe_00_12,True,0.6801093924590185
+2082-CEFLT,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,45.6,45.6,Classe_00_12,True,0.6801080410058815
+8705-WZCYL,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,44.8,44.8,Classe_00_12,True,0.6800864173444351
+4881-JVQOD,Masculino,True,True,True,10,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Debito Automatico,34.55,362.6,Classe_00_12,True,0.6800349359420292
+4484-GLZOU,Feminino,False,True,False,52,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,105.05,5624.85,Classe_48_60,True,0.6795600156881173
+3934-HXCFZ,Masculino,False,True,False,23,True,True,Fibra,True,True,True,False,True,False,Mensal,True,Conta Eletronica,99.25,2186.4,Classe_12_24,True,0.6793813304728312
+6519-CFDBX,Feminino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,45.4,80.95,Classe_00_12,True,0.6779418976170856
+8378-LKJAF,Masculino,False,True,True,38,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,101.15,3956.7,Classe_24_48,True,0.6776821126382402
+1436-ZMJAN,Feminino,False,True,False,10,True,False,DSL,False,False,True,False,True,True,Mensal,True,Credito Automatico,67.8,653.15,Classe_00_12,True,0.6771248490734416
+5626-MGTUK,Feminino,False,False,False,20,True,True,Fibra,True,False,False,False,True,False,Mensal,True,Debito Automatico,89.1,1879.25,Classe_12_24,True,0.6769818882124256
+9898-KZQDZ,Feminino,True,True,True,40,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Credito Automatico,94.55,3640.45,Classe_24_48,True,0.676440119867607
+4030-VPZBD,Feminino,False,False,False,2,False,Sem Telefone,DSL,False,False,False,True,False,False,Mensal,True,Conta Eletronica,30.9,59.05,Classe_00_12,True,0.6759301595583324
+4128-ETESU,Feminino,True,True,False,47,True,True,Fibra,False,False,True,False,True,True,Mensal,False,Conta Eletronica,99.7,4747.2,Classe_24_48,True,0.6741398989921763
+1845-CSBRZ,Feminino,True,True,True,22,True,True,Fibra,False,False,False,False,True,False,Mensal,False,Debito Automatico,85.35,1961.6,Classe_12_24,True,0.6738730676994615
+1271-SJBGZ,Masculino,True,False,False,12,False,Sem Telefone,DSL,False,False,True,True,False,True,Mensal,True,Conta Eletronica,43.65,526.95,Classe_00_12,True,0.6728344051628425
+2203-GHNWN,Feminino,False,True,False,24,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Conta Papel,79.65,1928.7,Classe_12_24,True,0.6722627025237398
+8012-SOUDQ,Feminino,True,False,False,43,True,True,Fibra,False,True,False,False,True,False,Mensal,True,Conta Eletronica,90.25,3838.75,Classe_24_48,True,0.6720799874500109
+0265-EDXBD,Masculino,True,True,False,32,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,74.9,2303.35,Classe_24_48,True,0.671916989477246
+4729-XKASR,Masculino,False,False,True,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,24.75,24.75,Classe_00_12,True,0.6712376515497452
+8610-WFCJF,Feminino,False,True,True,49,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,95.6,4783.5,Classe_48_60,True,0.6711739484274802
+9889-TMAHG,Masculino,True,False,False,8,True,False,Fibra,True,False,False,True,True,True,Mensal,False,Credito Automatico,100.3,832.35,Classe_00_12,True,0.669859704952815
+2911-WDXMV,Masculino,False,False,True,18,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Credito Automatico,80.55,1406.65,Classe_12_24,True,0.6688843466753435
+4828-FAZPK,Feminino,False,True,True,16,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Credito Automatico,79.95,1267.95,Classe_12_24,True,0.6685330449004314
+5129-JLPIS,Masculino,False,False,False,25,True,False,Fibra,True,False,True,True,True,True,Mensal,True,Conta Eletronica,105.5,2686.05,Classe_24_48,True,0.6672139397213619
+5868-CZJDR,Masculino,False,False,True,1,False,Sem Telefone,DSL,False,True,False,False,False,False,Mensal,True,Conta Papel,31.35,31.35,Classe_00_12,True,0.665783410223675
+1260-TTRXI,Masculino,False,False,False,4,True,False,DSL,False,False,False,False,False,True,Mensal,False,Conta Eletronica,54.3,195.3,Classe_00_12,True,0.6655671730699182
+1264-BYWMS,Masculino,False,False,False,55,True,True,Fibra,False,False,False,False,True,True,Mensal,True,Conta Eletronica,96.8,5283.95,Classe_48_60,True,0.664377990874361
+2916-BQZLN,Masculino,False,False,False,19,True,True,Fibra,True,False,True,False,False,False,Mensal,True,Conta Eletronica,84.75,1651.95,Classe_12_24,True,0.6639983473114555
+3197-ARFOY,Feminino,True,False,False,19,True,False,Fibra,True,True,False,True,True,True,Mensal,True,Conta Papel,105.0,2007.25,Classe_12_24,True,0.6637784527133761
+7881-INRLC,Masculino,False,False,False,45,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Credito Automatico,100.85,4740.0,Classe_24_48,True,0.6623461152400603
+7129-CAKJW,Feminino,False,False,False,17,True,True,Fibra,False,False,True,False,False,False,Mensal,False,Debito Automatico,80.05,1345.65,Classe_12_24,True,0.662203243443677
+4619-EVPHY,Feminino,True,True,False,20,True,False,Fibra,False,False,False,False,True,True,Anual,True,Debito Automatico,91.0,1859.5,Classe_12_24,True,0.6620305736069837
+5606-AMZBO,Feminino,False,True,False,10,True,True,Fibra,True,False,False,False,False,False,Mensal,True,Credito Automatico,78.15,765.15,Classe_00_12,True,0.6613624164102001
+8631-WUXGY,Feminino,False,False,True,46,True,False,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,99.8,4391.25,Classe_24_48,True,0.6613117519269408
+4398-HSCJH,Feminino,False,False,False,3,True,True,DSL,False,False,False,True,True,False,Mensal,True,Conta Eletronica,63.6,155.65,Classe_00_12,True,0.6609992932635137
+1173-NOEYG,Feminino,False,True,False,27,True,True,Fibra,False,False,True,False,False,True,Mensal,False,Debito Automatico,90.15,2423.4,Classe_24_48,True,0.6608776996891232
+2122-YWVYA,Feminino,False,False,False,18,True,False,Fibra,True,False,False,False,False,False,Mensal,True,Conta Eletronica,75.4,1380.4,Classe_12_24,True,0.6604440580959254
+9927-DSWDF,Masculino,False,True,False,22,True,False,Fibra,True,True,False,True,True,True,Mensal,True,Conta Eletronica,104.6,2180.55,Classe_12_24,True,0.6598858645302036
+5649-RXQTV,Masculino,False,False,False,51,True,False,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,99.0,5038.15,Classe_48_60,True,0.6597713056192428
+8819-IMISP,Masculino,False,False,False,31,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,80.45,2429.1,Classe_24_48,True,0.6595771846042278
+3891-PUQOD,Feminino,False,False,True,1,True,False,DSL,False,False,True,False,False,True,Mensal,False,Conta Eletronica,59.2,59.2,Classe_00_12,True,0.659042793218449
+0829-XXPLX,Feminino,False,False,False,20,True,False,Fibra,True,False,True,False,True,False,Mensal,True,Debito Automatico,89.4,1871.15,Classe_12_24,True,0.6583745226998957
+3094-JOJAI,Masculino,False,False,False,18,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Papel,74.15,1387.0,Classe_12_24,True,0.6575085041468909
+3545-CNWRG,Feminino,False,True,True,49,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,98.35,4889.2,Classe_48_60,True,0.6573565647510067
+7739-LAXOG,Feminino,False,True,True,32,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Debito Automatico,91.05,2954.5,Classe_24_48,True,0.6565827063940967
+2085-BOJKI,Masculino,False,True,False,17,True,False,Fibra,False,False,True,False,True,True,Anual,True,Debito Automatico,96.65,1588.25,Classe_12_24,True,0.6563399002787872
+9505-SQFSW,Feminino,False,True,True,3,False,Sem Telefone,DSL,False,True,False,False,False,True,Mensal,False,Conta Papel,40.3,92.5,Classe_00_12,True,0.6559564335629275
+2209-XADXF,Feminino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Debito Automatico,25.25,25.25,Classe_00_12,True,0.6543760927144598
+2931-FSOHN,Masculino,True,False,False,13,True,False,DSL,False,True,False,False,True,False,Mensal,True,Conta Eletronica,59.9,788.35,Classe_12_24,True,0.6513251485036878
+2495-KZNFB,Feminino,False,False,False,33,True,True,Fibra,True,False,False,False,False,True,Mensal,True,Conta Eletronica,90.65,2989.6,Classe_24_48,True,0.6500416321886935
+7852-LECYP,Masculino,True,True,False,13,True,True,Fibra,True,True,False,False,False,True,Mensal,False,Credito Automatico,93.8,1261.0,Classe_12_24,True,0.6497501200278195
+0666-UXTJO,Masculino,True,True,False,34,True,False,Fibra,False,False,True,False,True,False,Mensal,True,Credito Automatico,85.2,2874.45,Classe_24_48,True,0.6496657189504262
+3323-CPBWR,Masculino,False,False,False,23,True,True,Fibra,False,False,True,True,True,False,Mensal,True,Credito Automatico,96.9,2085.45,Classe_12_24,True,0.6494626025692924
+5649-VUKMC,Feminino,False,False,False,12,True,False,Fibra,False,False,True,False,True,True,Anual,False,Conta Papel,95.5,1115.15,Classe_00_12,True,0.6491077420957616
+4846-WHAFZ,Feminino,True,True,False,37,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,76.5,2868.15,Classe_24_48,True,0.6467522571333651
+6127-IYJOZ,Masculino,True,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,45.85,45.85,Classe_00_12,True,0.6463951041866363
+3055-MJDSB,Masculino,False,False,False,9,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,24.6,190.1,Classe_00_12,True,0.6453054996877136
+2037-SGXHH,Masculino,False,True,True,38,True,True,Fibra,False,True,True,False,True,False,Mensal,True,Conta Eletronica,94.65,3624.3,Classe_24_48,True,0.6448737387901368
+1216-JWVUX,Masculino,False,True,True,25,True,False,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,75.5,1901.05,Classe_24_48,True,0.6442004871980918
+5312-UXESG,Feminino,False,False,False,41,True,True,Fibra,False,False,True,False,True,True,Mensal,False,Debito Automatico,98.05,3990.6,Classe_24_48,True,0.6441473776760187
+8064-RAVOH,Masculino,False,False,True,1,True,False,DSL,False,False,True,False,False,False,Mensal,True,Conta Eletronica,49.85,49.85,Classe_00_12,True,0.643124322836579
+1785-BPHTP,Masculino,False,True,True,28,True,False,Fibra,False,False,True,False,True,False,Mensal,False,Conta Eletronica,85.45,2289.9,Classe_24_48,True,0.641814530267145
+5712-AHQNN,Feminino,False,False,False,43,True,False,Fibra,False,True,True,False,True,False,Mensal,True,Conta Eletronica,91.65,3954.1,Classe_24_48,True,0.639845800609523
+5146-CBVOE,Feminino,False,False,False,16,True,False,Fibra,False,True,False,False,False,False,Mensal,False,Debito Automatico,75.1,1212.85,Classe_12_24,True,0.6391630396553543
+3780-YVMFA,Feminino,False,True,True,8,True,False,DSL,False,False,False,True,True,True,Mensal,True,Conta Eletronica,68.55,564.35,Classe_00_12,True,0.6389883169520783
+1853-ARAAQ,Feminino,False,False,False,26,False,Sem Telefone,DSL,False,False,True,False,True,True,Mensal,True,Credito Automatico,50.35,1277.5,Classe_24_48,True,0.6388619311110847
+6543-CPZMK,Masculino,False,True,True,9,False,Sem Telefone,DSL,False,True,False,False,False,False,Mensal,True,Conta Eletronica,29.95,248.95,Classe_00_12,True,0.6386282857866471
+3733-LSYCE,Feminino,False,True,False,15,True,False,Fibra,False,True,False,False,False,False,Mensal,False,Debito Automatico,75.35,1114.55,Classe_12_24,True,0.637629467987042
+2587-EKXTS,Masculino,False,False,False,44,True,True,Fibra,True,True,True,False,True,True,Mensal,True,Conta Eletronica,111.5,4915.15,Classe_24_48,True,0.6367260970122967
+7065-YUNRY,Feminino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,45.3,45.3,Classe_00_12,True,0.6356278718922741
+8080-DDEMJ,Masculino,True,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,45.1,45.1,Classe_00_12,True,0.6349415443397708
+7798-JVXYM,Feminino,False,False,False,14,True,False,DSL,False,False,False,True,True,True,Mensal,True,Conta Eletronica,69.65,921.4,Classe_12_24,True,0.6341760180983628
+6988-CJEYV,Masculino,False,False,False,49,True,True,Fibra,False,True,False,False,True,True,Mensal,False,Conta Eletronica,98.7,4920.55,Classe_48_60,True,0.6316702766703306
+7077-XJMET,Masculino,False,True,False,12,True,False,DSL,False,False,True,True,True,True,Mensal,True,Conta Eletronica,74.15,741.4,Classe_00_12,True,0.6299880533511957
+5281-BUZGT,Masculino,True,False,False,36,True,True,Fibra,True,False,False,False,True,False,Mensal,True,Conta Eletronica,90.85,3186.7,Classe_24_48,True,0.6296952450304276
+1406-PUQVY,Masculino,False,False,True,1,True,False,DSL,False,True,False,False,False,False,Mensal,True,Conta Eletronica,49.9,49.9,Classe_00_12,True,0.6293449182490156
+9117-SHLZX,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,45.7,45.7,Classe_00_12,True,0.6292124248955057
+2792-LSHWX,Feminino,False,False,False,1,True,False,Fibra,True,True,False,True,False,False,Mensal,True,Conta Papel,83.4,83.4,Classe_00_12,True,0.6279052243468682
+3161-GETRM,Masculino,False,True,True,34,True,True,Fibra,False,False,True,False,False,True,Mensal,True,Credito Automatico,90.05,3097.0,Classe_24_48,True,0.6274894347866844
+3278-FSIXX,Feminino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,45.25,74.2,Classe_00_12,True,0.6266916380681457
+1660-HSOOQ,Masculino,False,False,False,1,True,False,DSL,False,False,True,False,False,False,Mensal,True,Conta Papel,49.65,49.65,Classe_00_12,True,0.6256932373001123
+6227-HWPWX,Feminino,False,False,True,15,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Debito Automatico,69.0,994.8,Classe_12_24,True,0.6251385453710963
+9722-UJOJR,Masculino,False,True,True,29,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Conta Eletronica,70.75,1974.8,Classe_24_48,True,0.6248034744561801
+3714-NTNFO,Feminino,False,False,False,49,True,True,Fibra,False,False,False,False,False,True,Mensal,True,Conta Eletronica,84.5,3906.7,Classe_48_60,True,0.624453016197096
+4660-IRIBM,Masculino,False,True,True,18,True,False,Fibra,True,False,True,False,True,False,Mensal,True,Conta Papel,87.9,1500.5,Classe_12_24,True,0.624252129005459
+8108-UXRQN,Feminino,False,True,True,11,False,Sem Telefone,DSL,True,False,False,False,True,True,Mensal,False,Conta Eletronica,50.55,565.35,Classe_00_12,True,0.6235356753916784
+0463-ZSDNT,Masculino,False,False,False,10,True,False,DSL,False,False,False,False,False,True,Mensal,True,Debito Automatico,56.75,503.25,Classe_00_12,True,0.6215728031838995
+4343-EJVQB,Masculino,False,False,False,7,True,False,Fibra,True,False,False,False,False,False,Mensal,False,Conta Papel,74.35,533.6,Classe_00_12,True,0.6209631334298015
+6259-WJQLC,Masculino,True,False,False,32,True,True,Fibra,False,False,True,False,False,False,Mensal,True,Credito Automatico,81.1,2619.25,Classe_24_48,True,0.6202878944900061
+5351-QESIO,Masculino,False,False,True,1,False,Sem Telefone,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,24.2,24.2,Classe_00_12,True,0.6197008273230733
+7813-ZGGAW,Masculino,True,False,False,31,True,True,Fibra,False,False,True,True,True,False,Mensal,True,Debito Automatico,96.6,2877.95,Classe_24_48,True,0.6192633647401226
+7277-OZCGZ,Feminino,False,False,False,22,True,False,Fibra,True,False,False,True,False,True,Mensal,True,Conta Eletronica,89.05,1886.25,Classe_12_24,True,0.6183591350435889
+8601-QACRS,Feminino,False,False,False,5,True,True,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,50.6,249.95,Classe_00_12,True,0.6180488717067586
+1855-AGAWH,Masculino,False,True,False,31,True,False,Fibra,False,False,True,False,True,True,Anual,True,Conta Eletronica,93.8,2939.8,Classe_24_48,True,0.6179154447639009
+2474-BRUCM,Masculino,True,True,False,40,True,True,Fibra,True,False,False,False,True,True,Mensal,False,Conta Eletronica,101.85,4086.3,Classe_24_48,True,0.6176587869610143
+1963-SVUCV,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,45.3,45.3,Classe_00_12,True,0.6175418879256395
+0943-ZQPXH,Masculino,False,True,True,44,True,False,Fibra,False,False,True,False,True,True,Mensal,True,Debito Automatico,92.95,4122.9,Classe_24_48,True,0.6171181997817129
+4537-DKTAL,Feminino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,45.55,84.4,Classe_00_12,True,0.6153020749351374
+5968-VXZLG,Masculino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,True,Debito Automatico,46.6,87.9,Classe_00_12,True,0.6139812541388205
+5331-RGMTT,Masculino,True,True,False,54,True,True,Fibra,False,False,True,False,True,True,Mensal,True,Credito Automatico,99.05,5295.7,Classe_48_60,True,0.6136104044483207
+6583-QGCSI,Feminino,True,True,False,50,True,True,Fibra,False,True,False,False,True,False,Mensal,True,Conta Eletronica,88.05,4367.35,Classe_48_60,True,0.6113576525934379
+3845-JHAMY,Feminino,False,True,True,16,False,Sem Telefone,DSL,False,False,False,False,False,True,Mensal,True,Credito Automatico,35.5,552.7,Classe_12_24,True,0.6097389641809592
+9206-GVPEQ,Masculino,False,True,False,13,False,Sem Telefone,DSL,True,False,False,True,True,True,Mensal,True,Conta Eletronica,54.45,706.85,Classe_12_24,True,0.6087283025793234
+0380-NEAVX,Masculino,True,False,False,34,True,False,Fibra,False,True,True,False,True,True,Anual,True,Conta Eletronica,99.85,3343.15,Classe_24_48,True,0.608395418496496
+3583-KRKMD,Masculino,False,False,False,18,True,False,Fibra,False,False,False,True,False,False,Mensal,True,Debito Automatico,75.9,1373.05,Classe_12_24,True,0.6073624412374862
+7636-OWBPG,Masculino,True,False,False,12,False,Sem Telefone,DSL,False,True,False,False,False,False,Mensal,True,Credito Automatico,29.35,381.2,Classe_00_12,True,0.6070157590985189
+7599-FKVXZ,Masculino,False,True,False,42,True,True,Fibra,False,False,True,True,True,True,Mensal,True,Debito Automatico,106.15,4512.7,Classe_24_48,True,0.6066737558548897
+4248-HCETZ,Masculino,True,True,False,30,True,False,Fibra,False,True,True,False,False,False,Mensal,True,Conta Papel,79.65,2365.15,Classe_24_48,True,0.604701864674915
+4625-EWPTF,Masculino,False,False,False,8,False,Sem Telefone,DSL,True,False,False,False,False,False,Mensal,True,Conta Eletronica,30.45,226.45,Classe_00_12,True,0.6043008795399039
+2604-IJPDU,Feminino,False,True,False,20,True,False,Fibra,True,True,False,True,True,False,Mensal,True,Conta Eletronica,96.55,1901.65,Classe_12_24,True,0.6042882402082007
+5385-SUIRI,Masculino,True,True,False,52,True,True,Fibra,True,False,True,False,True,True,Mensal,True,Conta Eletronica,104.2,5568.35,Classe_48_60,True,0.6033795648941056
+9369-XFEHK,Feminino,True,True,False,33,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Debito Automatico,80.6,2656.5,Classe_24_48,True,0.6029686410654883
+3137-LUPIX,Feminino,False,False,False,4,True,True,DSL,False,False,False,True,True,False,Mensal,True,Conta Papel,64.4,253.0,Classe_00_12,True,0.601669353453235
+3466-RITXD,Masculino,False,False,False,26,True,True,Fibra,True,True,False,False,True,False,Mensal,True,Credito Automatico,92.4,2349.8,Classe_24_48,True,0.6013379759878684
+2037-XJFUP,Masculino,False,True,False,33,True,False,Fibra,False,False,True,False,True,True,Anual,True,Conta Eletronica,95.8,3036.75,Classe_24_48,True,0.600799627520033
+8384-FZBJK,Feminino,False,True,True,57,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,100.6,5611.7,Classe_48_60,True,0.6000015384121609
+0064-YIJGF,Masculino,False,True,True,27,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,75.75,1929.0,Classe_24_48,True,0.5991949411857463
+2921-XWDJH,Feminino,True,True,False,38,True,False,Fibra,True,False,False,False,False,True,Mensal,True,Conta Eletronica,83.45,3147.15,Classe_24_48,True,0.59857786042953
+8058-DMYRU,Masculino,True,False,False,54,True,True,Fibra,False,True,False,False,False,True,Mensal,True,Conta Eletronica,90.05,4931.8,Classe_48_60,True,0.5981076025444186
+4201-JMNGR,Feminino,True,False,False,1,True,False,DSL,True,False,True,False,False,False,Mensal,True,Conta Eletronica,55.8,55.8,Classe_00_12,True,0.597491946083052
+7929-DMBCV,Feminino,False,True,False,20,True,False,Fibra,False,False,True,True,False,False,Mensal,True,Conta Papel,81.0,1683.7,Classe_12_24,True,0.5973883817567629
+9026-RNUJS,Masculino,True,False,False,5,True,False,DSL,False,False,True,False,False,False,Mensal,False,Conta Eletronica,50.35,237.25,Classe_00_12,True,0.5972185095888948
+1013-QCWAM,Feminino,True,True,False,66,True,True,Fibra,False,True,False,False,True,True,Mensal,True,Conta Eletronica,100.8,6690.75,Classe_60_99,True,0.5954152270713736
+7916-VCCPB,Feminino,False,True,True,16,True,False,Fibra,False,True,False,False,False,False,Mensal,False,Debito Automatico,73.25,1195.75,Classe_12_24,True,0.5945723318364629
+4566-QVRRW,Feminino,False,True,False,11,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,44.05,483.7,Classe_00_12,True,0.5939099939055278
+0365-GXEZS,Masculino,False,True,False,18,True,False,Fibra,False,False,True,True,False,False,Mensal,False,Conta Eletronica,78.2,1468.75,Classe_12_24,True,0.5925548188914368
+8123-QBNAZ,Feminino,False,True,True,36,True,True,Fibra,True,False,True,False,True,True,Mensal,True,Credito Automatico,104.5,3684.95,Classe_24_48,True,0.5924248080734521
+3932-IJWDZ,Masculino,False,False,False,45,True,True,Fibra,False,False,True,True,True,True,Mensal,True,Debito Automatico,103.65,4747.85,Classe_24_48,True,0.5921934388621707
+9381-NDKME,Feminino,True,True,False,24,False,Sem Telefone,DSL,False,False,True,False,False,True,Mensal,True,Credito Automatico,40.65,933.3,Classe_12_24,True,0.5906856539141474
+9348-YVOMK,Masculino,False,False,False,4,True,False,DSL,False,False,False,False,False,False,Mensal,True,Credito Automatico,44.8,176.2,Classe_00_12,True,0.5886413480463025
+4067-HLYQI,Feminino,False,False,False,33,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,70.4,2406.1,Classe_24_48,True,0.5882044155021259
+0541-FITGH,Feminino,False,True,False,2,True,False,DSL,True,False,False,False,False,True,Mensal,True,Conta Papel,62.15,113.1,Classe_00_12,True,0.5880389128735384
+3005-NFMTA,Masculino,True,False,False,55,True,True,Fibra,True,False,False,False,True,True,Mensal,True,Conta Eletronica,98.8,5617.75,Classe_48_60,True,0.5870356178709434
+5816-SCGFC,Feminino,True,False,False,7,True,False,DSL,False,True,False,False,False,False,Mensal,True,Conta Papel,51.3,419.35,Classe_00_12,True,0.5866943309929947
+1635-FJFCC,Feminino,False,False,False,5,True,False,DSL,False,False,False,False,False,False,Mensal,True,Credito Automatico,44.05,202.15,Classe_00_12,True,0.5859493508274349
+0067-DKWBL,Masculino,True,False,False,2,True,False,DSL,True,False,False,False,False,False,Mensal,True,Conta Eletronica,49.25,91.1,Classe_00_12,True,0.5854849311387206
+3976-BWUCK,Feminino,False,True,False,30,True,True,Fibra,False,True,False,True,True,False,Mensal,True,Credito Automatico,94.1,2804.45,Classe_24_48,True,0.5851244568705891
+8069-YQQAJ,Masculino,False,False,False,14,False,Sem Telefone,DSL,False,True,False,False,False,False,Mensal,True,Conta Papel,31.1,419.7,Classe_12_24,True,0.5846776218856872
+0260-ZDLGK,Feminino,False,False,True,9,True,False,DSL,False,False,True,True,True,True,Mensal,True,Conta Papel,72.9,651.4,Classe_00_12,True,0.583032454282117
+9090-SGQXL,Masculino,True,True,False,68,True,True,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,105.3,7299.65,Classe_60_99,True,0.5829500635463468
+2640-PMGFL,Masculino,False,False,True,27,True,True,Fibra,False,False,False,True,False,False,Mensal,True,Conta Eletronica,79.5,2180.55,Classe_24_48,True,0.581576381712507
+6486-LHTMA,Feminino,True,True,False,31,True,True,Fibra,False,False,True,False,True,False,Anual,True,Conta Eletronica,90.7,2835.5,Classe_24_48,True,0.5795002523682266
+5522-NYKPB,Masculino,False,True,True,25,True,False,Fibra,False,False,False,True,True,False,Mensal,False,Conta Eletronica,85.9,2199.05,Classe_24_48,True,0.5791903235693449
+3452-ABWRL,Masculino,True,False,False,47,True,True,Fibra,False,False,False,False,True,False,Mensal,True,Credito Automatico,86.05,3865.6,Classe_24_48,True,0.5779272859401786
+2277-VWCNI,Feminino,True,False,False,4,True,True,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,48.75,179.85,Classe_00_12,True,0.5778157706325125
+6876-ADESB,Masculino,False,False,True,1,True,False,DSL,False,False,True,False,False,False,Mensal,False,Conta Eletronica,48.95,48.95,Classe_00_12,True,0.577796776694164
+5173-WXOQV,Masculino,False,True,False,2,True,False,DSL,False,True,False,True,False,True,Mensal,True,Conta Papel,64.2,143.65,Classe_00_12,True,0.5768632192481251
+5419-JKZNQ,Masculino,True,True,False,30,True,True,Fibra,False,False,False,False,False,False,Mensal,False,Conta Papel,77.9,2351.45,Classe_24_48,True,0.5759711004625003
+8887-IPQNC,Feminino,False,True,False,7,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Papel,44.25,313.45,Classe_00_12,True,0.5748026502868974
+8158-WPEZG,Masculino,False,False,False,11,False,Sem Telefone,DSL,False,True,False,True,False,False,Mensal,True,Conta Eletronica,35.65,425.1,Classe_00_12,True,0.5744573813484344
+3413-BMNZE,Masculino,True,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Debito Automatico,45.25,45.25,Classe_00_12,True,0.5744491646535512
+3023-GFLBR,Feminino,False,True,True,33,True,True,Fibra,False,False,False,False,False,True,Mensal,False,Credito Automatico,86.15,2745.7,Classe_24_48,True,0.571478378894209
+8242-JSVBO,Masculino,False,False,False,7,True,False,DSL,False,False,False,False,False,False,Mensal,True,Debito Automatico,44.65,322.5,Classe_00_12,True,0.5703632353526866
+8019-ENHXU,Masculino,False,True,False,42,True,True,Fibra,False,True,True,True,False,True,Mensal,True,Conta Eletronica,99.45,4138.05,Classe_24_48,True,0.5701328438080888
+7754-IXRMC,Feminino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,45.35,45.35,Classe_00_12,True,0.5698748342756875
+2672-OJQZP,Feminino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,44.75,44.75,Classe_00_12,True,0.5698565626124072
+2272-UOINI,Feminino,False,False,False,7,True,False,DSL,True,True,False,True,True,True,Mensal,True,Conta Eletronica,78.5,571.05,Classe_00_12,True,0.5691578656818376
+2894-QOJRX,Feminino,False,True,False,25,False,Sem Telefone,DSL,False,False,False,False,True,False,Mensal,True,Debito Automatico,34.0,853.0,Classe_24_48,True,0.5634486270172179
+4146-SVFUD,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,44.6,44.6,Classe_00_12,True,0.5630622883140589
+9137-UIYPG,Feminino,False,True,True,35,True,False,Fibra,True,False,True,True,True,True,Mensal,True,Conta Eletronica,106.9,3756.45,Classe_24_48,True,0.5621150779175297
+9688-YGXVR,Feminino,False,False,False,44,True,False,Fibra,False,True,True,False,True,False,Mensal,True,Credito Automatico,88.15,3973.2,Classe_24_48,True,0.5619013633871769
+8344-WFMFH,Masculino,False,False,True,9,True,False,DSL,False,True,False,False,False,False,Mensal,True,Conta Eletronica,50.1,484.05,Classe_00_12,True,0.5615657838644933
+1816-FLZDK,Masculino,False,False,False,1,False,Sem Telefone,DSL,False,False,False,True,False,False,Mensal,False,Conta Papel,29.15,29.15,Classe_00_12,True,0.5609952062870553
+8654-DHAOW,Feminino,False,False,False,2,True,True,DSL,False,True,False,False,False,False,Mensal,False,Conta Papel,54.15,101.65,Classe_00_12,True,0.559365372517163
+6986-IJDHX,Masculino,False,True,True,39,True,False,Fibra,False,True,False,False,True,False,Mensal,True,Conta Papel,86.3,3266.0,Classe_24_48,True,0.5579554355192934
+8761-NSOBC,Masculino,False,False,False,44,True,False,Fibra,False,True,False,True,True,True,Mensal,False,Conta Eletronica,100.55,4398.15,Classe_24_48,True,0.5555354732616152
+5999-LCXAO,Feminino,False,False,False,1,False,Sem Telefone,DSL,True,False,False,False,False,False,Mensal,False,Conta Papel,29.9,29.9,Classe_00_12,True,0.5547669148652173
+0363-QJVFX,Masculino,False,False,False,32,True,True,Fibra,True,True,False,True,True,True,Mensal,True,Credito Automatico,108.15,3432.9,Classe_24_48,True,0.5538201939598868
+4432-ADRLB,Masculino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,44.65,74.9,Classe_00_12,True,0.5536392352837411
+1564-HJUVY,Masculino,False,False,False,4,True,False,DSL,False,True,False,True,True,False,Mensal,True,Debito Automatico,63.75,226.2,Classe_00_12,True,0.552555782264235
+5141-ZUVBH,Feminino,False,False,True,9,True,False,Fibra,True,False,True,True,False,True,Mensal,False,Debito Automatico,93.0,870.25,Classe_00_12,True,0.5517306574609038
+0295-QVKPB,Masculino,False,False,False,5,True,False,DSL,False,False,True,True,True,False,Mensal,True,Credito Automatico,63.95,318.1,Classe_00_12,True,0.5516279342639486
+9089-UOWJG,Feminino,False,True,True,12,True,False,DSL,False,False,True,False,True,False,Mensal,True,Credito Automatico,58.35,740.55,Classe_00_12,True,0.5500361831513607
+0596-BQCEQ,Feminino,False,True,True,62,True,False,Fibra,False,True,True,False,True,True,Mensal,True,Conta Eletronica,100.15,6283.3,Classe_60_99,True,0.5488801174179674
+2720-FVBQP,Feminino,False,True,True,6,True,True,DSL,False,False,False,False,False,False,Mensal,True,Credito Automatico,48.95,273.25,Classe_00_12,True,0.5485258167381677
+3669-OYSJI,Masculino,False,False,False,1,True,False,DSL,False,False,False,False,False,False,Mensal,False,Credito Automatico,46.2,46.2,Classe_00_12,True,0.5481087546949359
+0836-SEYLU,Masculino,False,True,False,9,False,Sem Telefone,DSL,False,False,False,True,True,False,Mensal,False,Conta Papel,40.65,328.95,Classe_00_12,True,0.5481004217075743
+6817-WTYHE,Masculino,False,False,False,2,True,False,DSL,False,False,False,False,False,False,Mensal,False,Debito Automatico,44.9,111.05,Classe_00_12,True,0.5478162317159602
+6578-KRMAW,Masculino,False,False,False,32,True,False,Fibra,True,True,True,False,False,True,Mensal,True,Credito Automatico,93.4,2979.3,Classe_24_48,True,0.5468867742951117
+1791-PQHBB,Feminino,False,False,True,2,True,False,DSL,True,False,False,False,False,True,Mensal,True,Credito Automatico,61.2,125.95,Classe_00_12,True,0.545574027703016
+8824-RWFXJ,Masculino,False,True,True,3,True,False,DSL,False,True,True,False,False,False,Mensal,True,Conta Papel,56.15,168.15,Classe_00_12,True,0.54555980037888
+2480-SQIOB,Masculino,False,True,True,4,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,44.8,169.65,Classe_00_12,True,0.5453581913443896
+1142-WACZW,Masculino,False,False,False,2,False,Sem Telefone,DSL,False,False,False,True,False,False,Mensal,False,Debito Automatico,29.85,75.6,Classe_00_12,True,0.5451191567251585
+4883-QICIH,Masculino,False,True,True,32,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Debito Automatico,69.75,2347.9,Classe_24_48,True,0.5441195528618588
+3859-CVCET,Feminino,False,False,False,4,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,45.65,191.05,Classe_00_12,True,0.5432682876698952
+8805-JNRAZ,Feminino,False,False,False,2,True,False,DSL,False,True,False,False,False,False,Mensal,False,Conta Papel,49.2,103.7,Classe_00_12,True,0.542774301009868
+6599-GZWCM,Feminino,False,False,False,13,True,False,Fibra,False,True,False,False,False,False,Anual,True,Conta Papel,74.65,966.25,Classe_12_24,True,0.5426551778350699
+1049-FYSYG,Feminino,False,True,False,17,False,Sem Telefone,DSL,False,True,True,False,False,False,Mensal,True,Credito Automatico,35.65,646.05,Classe_12_24,True,0.5396959343336252
+3569-EDBPQ,Feminino,False,False,False,24,True,True,Fibra,True,False,False,True,False,False,Mensal,True,Conta Eletronica,84.35,1938.05,Classe_12_24,True,0.5389257197213461
+3521-SYVOR,Feminino,False,False,False,37,True,False,DSL,False,False,False,False,True,True,Mensal,True,Conta Eletronica,64.75,2345.2,Classe_24_48,True,0.5388105132925387
+6923-EFPNL,Masculino,False,False,False,4,True,True,DSL,False,False,False,False,False,False,Mensal,False,Credito Automatico,51.75,201.1,Classe_00_12,True,0.5383413035678232
+7130-YXBRO,Masculino,False,True,False,48,True,True,Fibra,True,True,True,False,True,True,Mensal,True,Debito Automatico,111.45,5315.1,Classe_24_48,True,0.5381959843348406
+7579-OOPEC,Feminino,True,True,False,2,True,False,DSL,False,True,False,False,False,False,Mensal,False,Credito Automatico,50.15,115.1,Classe_00_12,True,0.5374621764408896
+7878-JGDKK,Masculino,False,False,False,4,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,44.55,220.75,Classe_00_12,True,0.5373177869685384
+5948-UJZLF,Masculino,False,False,False,2,True,False,DSL,False,True,False,False,False,False,Mensal,False,Conta Papel,49.25,97.0,Classe_00_12,True,0.535698243091671
+9700-ISPUP,Feminino,False,True,True,10,True,False,DSL,False,True,False,True,False,True,Mensal,True,Conta Eletronica,65.5,616.9,Classe_00_12,True,0.5338650415394289
+1552-AAGRX,Feminino,False,False,False,30,True,True,Fibra,True,False,False,True,True,True,Mensal,False,Debito Automatico,106.4,3211.9,Classe_24_48,True,0.5332006040302821
+4680-KUTAJ,Feminino,True,False,False,11,True,True,DSL,True,False,False,False,False,False,Mensal,True,Conta Eletronica,55.6,580.8,Classe_00_12,True,0.5307956368114162
+8329-UTMVM,Masculino,True,False,False,27,True,True,Fibra,False,True,False,True,True,True,Anual,True,Debito Automatico,104.65,2964.0,Classe_24_48,True,0.5306435701571033
+3694-DELSO,Masculino,False,True,True,4,False,Sem Telefone,DSL,True,False,False,False,True,False,Mensal,False,Credito Automatico,38.55,156.1,Classe_00_12,True,0.529305457057592
+9767-FFLEM,Masculino,False,False,False,38,True,False,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,69.5,2625.25,Classe_24_48,True,0.528343235376257
+3043-TYBNO,Masculino,False,False,False,3,True,False,DSL,False,False,False,True,False,True,Mensal,False,Conta Papel,60.65,196.9,Classe_00_12,True,0.5277085371525986
+5433-KYGHE,Feminino,False,False,True,14,True,True,Fibra,True,False,False,True,False,False,Mensal,True,Conta Papel,86.0,1164.05,Classe_12_24,True,0.525951751243154
+9003-CPATH,Masculino,False,False,False,42,True,True,Fibra,False,False,True,False,False,False,Mensal,False,Conta Eletronica,79.9,3313.4,Classe_24_48,True,0.5234723942833378
+3808-HFKDE,Feminino,False,False,False,20,True,False,DSL,False,False,False,False,False,False,Mensal,True,Conta Eletronica,44.35,927.15,Classe_12_24,True,0.5234454819742274
+5882-CMAZQ,Feminino,False,True,True,5,False,Sem Telefone,DSL,False,True,False,True,False,False,Mensal,False,Conta Eletronica,34.25,163.55,Classe_00_12,True,0.5213049434430819
+9079-YEXQJ,Feminino,False,False,False,54,True,True,Fibra,False,True,True,True,True,True,Mensal,False,Conta Eletronica,111.1,6014.85,Classe_48_60,True,0.5208780068390009
+6888-SBYAI,Masculino,False,False,False,1,True,False,DSL,True,False,False,False,False,False,Mensal,True,Conta Papel,50.7,50.7,Classe_00_12,True,0.5206074343273988
+0587-DMGBH,Feminino,False,False,False,8,True,False,DSL,True,False,False,False,False,False,Mensal,True,Conta Eletronica,49.85,365.55,Classe_00_12,True,0.5201974392567399
+2240-HSJQD,Masculino,False,False,True,38,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Papel,81.85,3141.7,Classe_24_48,True,0.5200774405096574
+7975-TZMLR,Masculino,False,False,False,47,True,True,Fibra,False,True,True,False,True,True,Anual,True,Conta Eletronica,103.1,4889.3,Classe_24_48,True,0.5199635798808513
+7250-EQKIY,Feminino,False,True,True,1,True,False,DSL,False,False,True,False,False,False,Mensal,False,Conta Papel,50.45,50.45,Classe_00_12,True,0.519919278965446
+1919-RTPQD,Masculino,False,True,True,7,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Eletronica,44.75,333.65,Classe_00_12,True,0.5190839989001458
+1456-TWCGB,Masculino,False,False,False,4,True,False,DSL,False,True,False,False,False,False,Mensal,False,Conta Papel,49.25,208.45,Classe_00_12,True,0.518223445939847
+4026-SKKHW,Masculino,False,False,False,3,True,False,DSL,False,False,False,True,False,False,Mensal,True,Conta Papel,50.25,152.3,Classe_00_12,True,0.5160283222625031
+1763-WQFUK,Masculino,False,False,False,3,True,False,DSL,False,False,False,True,False,False,Mensal,True,Conta Papel,50.5,147.75,Classe_00_12,True,0.5158871468566433
+6845-RGTYS,Feminino,False,True,False,47,True,True,Fibra,True,True,True,False,True,False,Mensal,True,Conta Eletronica,98.75,4533.7,Classe_24_48,True,0.5156752263708042
+2235-ZGKPT,Feminino,False,True,True,4,True,True,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,50.85,239.55,Classe_00_12,True,0.5150326450439909
+5924-IFQTT,Masculino,False,True,True,13,True,True,DSL,False,True,True,True,True,False,Mensal,True,Conta Eletronica,72.8,930.05,Classe_12_24,True,0.5097936849449012
+6987-XQSJT,Feminino,True,False,False,54,True,True,Fibra,False,True,False,False,False,False,Mensal,True,Conta Eletronica,79.5,4370.25,Classe_48_60,True,0.5097722339062694
+2842-BCQGE,Masculino,False,False,False,43,True,True,Fibra,False,False,False,False,False,False,Mensal,True,Credito Automatico,75.35,3161.4,Classe_24_48,True,0.5093834347500323
+8455-HIRAQ,Feminino,False,False,False,8,True,False,DSL,False,False,False,False,False,False,Mensal,False,Conta Papel,44.45,369.3,Classe_00_12,True,0.5069344147248913
+1215-VFYVK,Feminino,False,False,False,4,False,Sem Telefone,DSL,True,False,True,True,False,True,Mensal,False,Conta Papel,48.25,202.25,Classe_00_12,True,0.505566083837268
+6917-IAYHD,Masculino,False,False,True,1,False,Sem Telefone,DSL,False,True,False,True,False,False,Mensal,False,Conta Papel,33.6,33.6,Classe_00_12,True,0.5050897840329629
+8910-LEDAG,Masculino,True,True,False,34,True,False,Fibra,False,False,False,False,False,False,Mensal,False,Credito Automatico,71.55,2427.35,Classe_24_48,True,0.5049201522414076
+7248-VZQLC,Feminino,True,False,False,47,True,True,Fibra,False,True,True,False,False,False,Mensal,True,Debito Automatico,85.2,3969.35,Classe_24_48,True,0.5035305089560036
+0533-BNWKF,Feminino,True,True,False,55,True,True,Fibra,False,True,True,False,False,False,Mensal,True,Conta Eletronica,85.45,4874.7,Classe_48_60,True,0.5019580240032835
+0032-PGELS,Feminino,False,True,True,1,False,Sem Telefone,DSL,True,False,False,False,False,False,Mensal,False,Debito Automatico,30.5,30.5,Classe_00_12,True,0.5013224878119328
+3873-NFTGI,Masculino,False,False,False,14,True,True,DSL,False,True,False,False,False,False,Mensal,True,Credito Automatico,55.5,767.55,Classe_12_24,True,0.501066710721647
